@@ -1,0 +1,764 @@
+Site_ID,Latitude,Longitude,Elevation_in_Meters,State,Species_ID,Genus,Species,Common_Name,Kingdom,Individual_ID,Phenophase_ID,Phenophase_Description,First_Yes_Year,First_Yes_Month,First_Yes_Day,First_Yes_DOY,First_Yes_Julian_Date,NumDays_Since_Prior_No,Last_Yes_Year,Last_Yes_Month,Last_Yes_Day,Last_Yes_DOY,Last_Yes_Julian_Date,NumDays_Until_Next_No
+5841,44.214081,-122.249275,503,OR,57,Tsuga,heterophylla,western hemlock,Plantae,13698,480,Breaking needle buds (conifers),2009,5,24,144,2454976,-9999,2009,5,24,144,2454976,-9999
+4875,43.628536,-72.518349,206,VT,56,Tsuga,canadensis,eastern hemlock,Plantae,8444,480,Breaking needle buds (conifers),2010,6,11,162,2455359,-9999,2010,6,18,169,2455366,7
+4875,43.628536,-72.518349,206,VT,56,Tsuga,canadensis,eastern hemlock,Plantae,8444,485,Young needles (conifers),2010,6,11,162,2455359,-9999,2010,7,2,183,2455380,7
+5001,44.823818,-71.159248,413,NH,56,Tsuga,canadensis,eastern hemlock,Plantae,9193,480,Breaking needle buds (conifers),2010,8,13,225,2455422,-9999,2010,8,13,225,2455422,-9999
+5001,44.823818,-71.159248,413,NH,56,Tsuga,canadensis,eastern hemlock,Plantae,9193,485,Young needles (conifers),2010,8,13,225,2455422,-9999,2010,8,13,225,2455422,-9999
+5841,44.214081,-122.249275,503,OR,57,Tsuga,heterophylla,western hemlock,Plantae,13698,480,Breaking needle buds (conifers),2010,6,1,152,2455349,13,2010,6,16,167,2455364,-9999
+5841,44.214081,-122.249275,503,OR,57,Tsuga,heterophylla,western hemlock,Plantae,13698,485,Young needles (conifers),2010,6,16,167,2455364,15,2010,6,30,181,2455378,-9999
+5265,40.804298,-76.026863,309,PA,56,Tsuga,canadensis,eastern hemlock,Plantae,10382,480,Breaking needle buds (conifers),2011,4,30,120,2455682,4,2011,5,23,143,2455705,5
+5265,40.804298,-76.026863,309,PA,56,Tsuga,canadensis,eastern hemlock,Plantae,10382,485,Young needles (conifers),2011,4,30,120,2455682,4,2011,6,9,160,2455722,-9999
+5265,40.804298,-76.026863,309,PA,56,Tsuga,canadensis,eastern hemlock,Plantae,10382,490,Pollen cones (conifers),2011,5,23,143,2455705,8,2011,6,9,160,2455722,-9999
+5265,40.804298,-76.026863,309,PA,56,Tsuga,canadensis,eastern hemlock,Plantae,10382,495,Open pollen cones (conifers),2011,5,28,148,2455710,5,2011,6,9,160,2455722,-9999
+5265,40.804298,-76.026863,309,PA,56,Tsuga,canadensis,eastern hemlock,Plantae,10382,503,Pollen release (conifers),2011,6,9,160,2455722,5,2011,6,9,160,2455722,-9999
+5427,47.656307,-122.335419,72,WA,58,Tsuga,mertensiana,mountain hemlock,Plantae,11345,480,Breaking needle buds (conifers),2011,5,6,126,2455688,-9999,2011,5,20,140,2455702,7
+5427,47.656307,-122.335419,72,WA,58,Tsuga,mertensiana,mountain hemlock,Plantae,11345,485,Young needles (conifers),2011,5,13,133,2455695,7,2011,7,1,182,2455744,-9999
+5431,35.517879,-82.469681,786,NC,56,Tsuga,canadensis,eastern hemlock,Plantae,11414,485,Young needles (conifers),2011,4,13,103,2455665,-9999,2011,4,13,103,2455665,-9999
+5428,48.033489,-122.598724,39,WA,57,Tsuga,heterophylla,western hemlock,Plantae,17993,393,Ripe seed cones,2012,1,8,8,2455935,-9999,2012,1,20,20,2455947,-9999
+6543,58.480236,-134.783279,13,AK,58,Tsuga,mertensiana,mountain hemlock,Plantae,19515,480,Breaking needle buds (conifers),2012,6,5,157,2456084,14,2012,6,5,157,2456084,7
+6543,58.480236,-134.783279,13,AK,58,Tsuga,mertensiana,mountain hemlock,Plantae,19515,485,Young needles (conifers),2012,6,5,157,2456084,14,2012,7,10,192,2456119,64
+8244,43.714233,-72.261688,267,NH,56,Tsuga,canadensis,eastern hemlock,Plantae,23603,485,Young needles (conifers),2012,4,2,93,2456020,-9999,2012,4,2,93,2456020,-9999
+8244,43.714233,-72.261688,267,NH,56,Tsuga,canadensis,eastern hemlock,Plantae,23603,490,Pollen cones (conifers),2012,4,2,93,2456020,-9999,2012,4,2,93,2456020,-9999
+8244,43.714233,-72.261688,267,NH,56,Tsuga,canadensis,eastern hemlock,Plantae,23603,491,Recent cone or seed drop,2012,4,2,93,2456020,-9999,2012,4,2,93,2456020,-9999
+8405,43.705299,-72.284378,171,NH,56,Tsuga,canadensis,eastern hemlock,Plantae,27671,480,Breaking needle buds (conifers),2012,4,22,113,2456040,-9999,2012,5,6,127,2456054,-9999
+8405,43.705299,-72.284378,171,NH,56,Tsuga,canadensis,eastern hemlock,Plantae,27671,485,Young needles (conifers),2012,4,22,113,2456040,-9999,2012,5,6,127,2456054,-9999
+8595,39.700169,-78.94593,821,MD,56,Tsuga,canadensis,eastern hemlock,Plantae,26552,480,Breaking needle buds (conifers),2012,4,26,117,2456044,-9999,2012,4,26,117,2456044,-9999
+8595,39.700169,-78.94593,821,MD,56,Tsuga,canadensis,eastern hemlock,Plantae,26553,480,Breaking needle buds (conifers),2012,4,26,117,2456044,-9999,2012,4,26,117,2456044,-9999
+8595,39.700169,-78.94593,821,MD,56,Tsuga,canadensis,eastern hemlock,Plantae,26554,480,Breaking needle buds (conifers),2012,4,26,117,2456044,-9999,2012,4,26,117,2456044,-9999
+9064,41.931305,-74.199905,156,NY,56,Tsuga,canadensis,eastern hemlock,Plantae,31068,393,Ripe seed cones,2012,9,12,256,2456183,-9999,2012,9,12,256,2456183,-9999
+9064,41.931305,-74.199905,156,NY,56,Tsuga,canadensis,eastern hemlock,Plantae,31068,491,Recent cone or seed drop,2012,9,12,256,2456183,-9999,2012,9,12,256,2456183,-9999
+10079,44.868633,-69.035225,77,ME,56,Tsuga,canadensis,eastern hemlock,Plantae,39558,392,Unripe seed cones,2013,3,22,81,2456374,-9999,2013,3,22,81,2456374,-9999
+10079,44.868633,-69.035225,77,ME,56,Tsuga,canadensis,eastern hemlock,Plantae,39558,485,Young needles (conifers),2013,3,22,81,2456374,-9999,2013,3,22,81,2456374,-9999
+10079,44.868633,-69.035225,77,ME,56,Tsuga,canadensis,eastern hemlock,Plantae,39558,490,Pollen cones (conifers),2013,3,22,81,2456374,-9999,2013,3,22,81,2456374,-9999
+10159,44.71991,-68.663971,101,ME,56,Tsuga,canadensis,eastern hemlock,Plantae,45501,480,Breaking needle buds (conifers),2013,4,4,94,2456387,21,2013,5,9,129,2456422,-9999
+10159,44.71991,-68.663971,101,ME,56,Tsuga,canadensis,eastern hemlock,Plantae,45501,485,Young needles (conifers),2013,4,4,94,2456387,21,2013,5,9,129,2456422,-9999
+10159,44.71991,-68.663971,101,ME,56,Tsuga,canadensis,eastern hemlock,Plantae,45501,490,Pollen cones (conifers),2013,4,4,94,2456387,21,2013,5,2,122,2456415,7
+10159,44.71991,-68.663971,101,ME,56,Tsuga,canadensis,eastern hemlock,Plantae,45501,491,Recent cone or seed drop,2013,5,2,122,2456415,21,2013,5,9,129,2456422,-9999
+10782,41.931305,-74.199905,156,NY,56,Tsuga,canadensis,eastern hemlock,Plantae,42843,480,Breaking needle buds (conifers),2013,5,6,126,2456419,-9999,2013,6,3,154,2456447,16
+10782,41.931305,-74.199905,156,NY,56,Tsuga,canadensis,eastern hemlock,Plantae,42843,485,Young needles (conifers),2013,6,3,154,2456447,28,2013,6,19,170,2456463,-9999
+10985,41.898911,-74.253143,224,NY,56,Tsuga,canadensis,eastern hemlock,Plantae,43738,392,Unripe seed cones,2013,6,20,171,2456464,14,2013,6,20,171,2456464,-9999
+10985,41.898911,-74.253143,224,NY,56,Tsuga,canadensis,eastern hemlock,Plantae,43738,480,Breaking needle buds (conifers),2013,6,4,155,2456448,-9999,2013,6,20,171,2456464,-9999
+10985,41.898911,-74.253143,224,NY,56,Tsuga,canadensis,eastern hemlock,Plantae,43738,485,Young needles (conifers),2013,6,4,155,2456448,-9999,2013,6,20,171,2456464,-9999
+10985,41.898911,-74.253143,224,NY,56,Tsuga,canadensis,eastern hemlock,Plantae,43738,490,Pollen cones (conifers),2013,6,6,157,2456450,2,2013,6,20,171,2456464,-9999
+10985,41.898911,-74.253143,224,NY,56,Tsuga,canadensis,eastern hemlock,Plantae,43738,495,Open pollen cones (conifers),2013,6,20,171,2456464,14,2013,6,20,171,2456464,-9999
+12227,37.224251,-80.422859,632,VA,56,Tsuga,canadensis,eastern hemlock,Plantae,51154,392,Unripe seed cones,2013,9,20,263,2456556,-9999,2013,9,20,263,2456556,7
+12227,37.224251,-80.422859,632,VA,56,Tsuga,canadensis,eastern hemlock,Plantae,51154,393,Ripe seed cones,2013,9,20,263,2456556,-9999,2013,11,11,315,2456608,-9999
+12227,37.224251,-80.422859,632,VA,56,Tsuga,canadensis,eastern hemlock,Plantae,51154,485,Young needles (conifers),2013,9,20,263,2456556,-9999,2013,9,20,263,2456556,7
+12227,37.224251,-80.422859,632,VA,56,Tsuga,canadensis,eastern hemlock,Plantae,51154,490,Pollen cones (conifers),2013,9,27,270,2456563,7,2013,10,4,277,2456570,9
+12227,37.224251,-80.422859,632,VA,56,Tsuga,canadensis,eastern hemlock,Plantae,51154,495,Open pollen cones (conifers),2013,9,27,270,2456563,7,2013,10,4,277,2456570,9
+12249,42.518417,-76.556999,175,NY,56,Tsuga,canadensis,eastern hemlock,Plantae,52575,393,Ripe seed cones,2013,10,19,292,2456585,-9999,2013,11,11,315,2456608,-9999
+12249,42.518417,-76.556999,175,NY,56,Tsuga,canadensis,eastern hemlock,Plantae,52575,491,Recent cone or seed drop,2013,10,19,292,2456585,-9999,2013,11,11,315,2456608,-9999
+2119,40.862221,-73.875191,26,NY,56,Tsuga,canadensis,eastern hemlock,Plantae,66508,392,Unripe seed cones,2014,10,22,295,2456953,8,2014,10,29,302,2456960,2
+2119,40.862221,-73.875191,26,NY,56,Tsuga,canadensis,eastern hemlock,Plantae,66508,393,Ripe seed cones,2014,4,14,104,2456762,1,2014,4,14,104,2456762,2
+2119,40.862221,-73.875191,26,NY,56,Tsuga,canadensis,eastern hemlock,Plantae,66508,393,Ripe seed cones,2014,11,19,323,2456981,1,2014,11,19,323,2456981,-9999
+2119,40.862221,-73.875191,26,NY,56,Tsuga,canadensis,eastern hemlock,Plantae,66508,480,Breaking needle buds (conifers),2014,5,27,147,2456805,14,2014,5,27,147,2456805,2
+2119,40.862221,-73.875191,26,NY,56,Tsuga,canadensis,eastern hemlock,Plantae,66508,485,Young needles (conifers),2014,5,27,147,2456805,12,2014,5,29,149,2456807,41
+2119,40.862221,-73.875191,26,NY,56,Tsuga,canadensis,eastern hemlock,Plantae,66508,485,Young needles (conifers),2014,7,15,196,2456854,6,2014,7,15,196,2456854,10
+2119,40.862221,-73.875191,26,NY,56,Tsuga,canadensis,eastern hemlock,Plantae,66508,490,Pollen cones (conifers),2014,5,6,126,2456784,1,2014,5,6,126,2456784,9
+2119,40.862221,-73.875191,26,NY,56,Tsuga,canadensis,eastern hemlock,Plantae,66508,490,Pollen cones (conifers),2014,5,27,147,2456805,12,2014,5,27,147,2456805,2
+5173,35.996983,-83.889839,309,TN,56,Tsuga,canadensis,eastern hemlock,Plantae,53890,393,Ripe seed cones,2014,1,11,11,2456669,-9999,2014,3,19,78,2456736,-9999
+5428,48.033489,-122.598724,39,WA,57,Tsuga,heterophylla,western hemlock,Plantae,17993,393,Ripe seed cones,2014,5,9,129,2456787,73,2014,5,9,129,2456787,-9999
+5428,48.033489,-122.598724,39,WA,57,Tsuga,heterophylla,western hemlock,Plantae,17993,480,Breaking needle buds (conifers),2014,2,25,56,2456714,33,2014,2,25,56,2456714,-9999
+5428,48.033489,-122.598724,39,WA,57,Tsuga,heterophylla,western hemlock,Plantae,17993,491,Recent cone or seed drop,2014,5,9,129,2456787,106,2014,5,9,129,2456787,-9999
+11309,41.185341,-73.622284,123,NY,56,Tsuga,canadensis,eastern hemlock,Plantae,68787,480,Breaking needle buds (conifers),2014,5,12,132,2456790,11,2014,5,27,147,2456805,7
+11309,41.185341,-73.622284,123,NY,56,Tsuga,canadensis,eastern hemlock,Plantae,68792,480,Breaking needle buds (conifers),2014,5,12,132,2456790,11,2014,5,27,147,2456805,7
+11309,41.185341,-73.622284,123,NY,56,Tsuga,canadensis,eastern hemlock,Plantae,68795,480,Breaking needle buds (conifers),2014,5,12,132,2456790,11,2014,5,27,147,2456805,7
+11309,41.185341,-73.622284,123,NY,56,Tsuga,canadensis,eastern hemlock,Plantae,68797,480,Breaking needle buds (conifers),2014,5,12,132,2456790,11,2014,5,27,147,2456805,7
+11309,41.185341,-73.622284,123,NY,56,Tsuga,canadensis,eastern hemlock,Plantae,68803,480,Breaking needle buds (conifers),2014,5,12,132,2456790,11,2014,5,12,132,2456790,6
+11309,41.185341,-73.622284,123,NY,56,Tsuga,canadensis,eastern hemlock,Plantae,68787,485,Young needles (conifers),2014,5,27,147,2456805,9,2014,7,14,195,2456853,-9999
+11309,41.185341,-73.622284,123,NY,56,Tsuga,canadensis,eastern hemlock,Plantae,68792,485,Young needles (conifers),2014,5,27,147,2456805,9,2014,7,14,195,2456853,-9999
+11309,41.185341,-73.622284,123,NY,56,Tsuga,canadensis,eastern hemlock,Plantae,68795,485,Young needles (conifers),2014,5,27,147,2456805,9,2014,7,14,195,2456853,-9999
+11309,41.185341,-73.622284,123,NY,56,Tsuga,canadensis,eastern hemlock,Plantae,68797,485,Young needles (conifers),2014,5,27,147,2456805,9,2014,7,14,195,2456853,-9999
+11309,41.185341,-73.622284,123,NY,56,Tsuga,canadensis,eastern hemlock,Plantae,68803,485,Young needles (conifers),2014,5,27,147,2456805,9,2014,7,14,195,2456853,-9999
+11309,41.185341,-73.622284,123,NY,56,Tsuga,canadensis,eastern hemlock,Plantae,68792,490,Pollen cones (conifers),2014,5,1,121,2456779,-9999,2014,5,1,121,2456779,11
+11309,41.185341,-73.622284,123,NY,56,Tsuga,canadensis,eastern hemlock,Plantae,68792,490,Pollen cones (conifers),2014,7,3,184,2456842,7,2014,7,14,195,2456853,-9999
+11309,41.185341,-73.622284,123,NY,56,Tsuga,canadensis,eastern hemlock,Plantae,68795,490,Pollen cones (conifers),2014,5,1,121,2456779,-9999,2014,5,1,121,2456779,11
+11309,41.185341,-73.622284,123,NY,56,Tsuga,canadensis,eastern hemlock,Plantae,68795,490,Pollen cones (conifers),2014,6,10,161,2456819,7,2014,6,10,161,2456819,8
+11309,41.185341,-73.622284,123,NY,56,Tsuga,canadensis,eastern hemlock,Plantae,68797,490,Pollen cones (conifers),2014,5,1,121,2456779,-9999,2014,5,1,121,2456779,11
+11309,41.185341,-73.622284,123,NY,56,Tsuga,canadensis,eastern hemlock,Plantae,68803,490,Pollen cones (conifers),2014,5,1,121,2456779,-9999,2014,5,1,121,2456779,11
+11309,41.185341,-73.622284,123,NY,56,Tsuga,canadensis,eastern hemlock,Plantae,68803,490,Pollen cones (conifers),2014,6,3,154,2456812,7,2014,6,3,154,2456812,7
+11309,41.185341,-73.622284,123,NY,56,Tsuga,canadensis,eastern hemlock,Plantae,68803,490,Pollen cones (conifers),2014,7,3,184,2456842,7,2014,7,3,184,2456842,11
+16399,47.30394,-122.529327,71,WA,57,Tsuga,heterophylla,western hemlock,Plantae,62227,393,Ripe seed cones,2014,2,13,44,2456702,1,2014,2,13,44,2456702,12
+16399,47.30394,-122.529327,71,WA,57,Tsuga,heterophylla,western hemlock,Plantae,62227,393,Ripe seed cones,2014,4,8,98,2456756,41,2014,4,8,98,2456756,2
+16399,47.30394,-122.529327,71,WA,57,Tsuga,heterophylla,western hemlock,Plantae,62227,393,Ripe seed cones,2014,9,16,259,2456917,159,2014,9,16,259,2456917,77
+16399,47.30394,-122.529327,71,WA,57,Tsuga,heterophylla,western hemlock,Plantae,62227,480,Breaking needle buds (conifers),2014,2,25,56,2456714,12,2014,2,25,56,2456714,1
+16399,47.30394,-122.529327,71,WA,57,Tsuga,heterophylla,western hemlock,Plantae,62227,485,Young needles (conifers),2014,2,13,44,2456702,1,2014,2,25,56,2456714,1
+16399,47.30394,-122.529327,71,WA,57,Tsuga,heterophylla,western hemlock,Plantae,62227,485,Young needles (conifers),2014,4,8,98,2456756,41,2014,4,10,100,2456758,159
+16399,47.30394,-122.529327,71,WA,57,Tsuga,heterophylla,western hemlock,Plantae,62227,491,Recent cone or seed drop,2014,2,6,37,2456695,-9999,2014,2,6,37,2456695,4
+16399,47.30394,-122.529327,71,WA,57,Tsuga,heterophylla,western hemlock,Plantae,62227,491,Recent cone or seed drop,2014,2,13,44,2456702,1,2014,2,13,44,2456702,12
+16399,47.30394,-122.529327,71,WA,57,Tsuga,heterophylla,western hemlock,Plantae,62227,491,Recent cone or seed drop,2014,4,8,98,2456756,41,2014,9,16,259,2456917,77
+16517,47.304131,-122.533119,90,WA,57,Tsuga,heterophylla,western hemlock,Plantae,67315,490,Pollen cones (conifers),2014,4,10,100,2456758,45,2014,4,10,100,2456758,-9999
+16517,47.304131,-122.533119,90,WA,57,Tsuga,heterophylla,western hemlock,Plantae,67315,495,Open pollen cones (conifers),2014,4,10,100,2456758,45,2014,4,10,100,2456758,-9999
+16517,47.304131,-122.533119,90,WA,57,Tsuga,heterophylla,western hemlock,Plantae,67315,503,Pollen release (conifers),2014,4,10,100,2456758,45,2014,4,10,100,2456758,-9999
+16576,47.305634,-122.527664,67,WA,57,Tsuga,heterophylla,western hemlock,Plantae,62748,392,Unripe seed cones,2014,9,17,260,2456918,160,2014,9,17,260,2456918,10
+16576,47.305634,-122.527664,67,WA,57,Tsuga,heterophylla,western hemlock,Plantae,62748,392,Unripe seed cones,2014,12,17,351,2457009,10,2014,12,17,351,2457009,-9999
+16576,47.305634,-122.527664,67,WA,57,Tsuga,heterophylla,western hemlock,Plantae,62748,393,Ripe seed cones,2014,2,11,42,2456700,1,2014,2,11,42,2456700,14
+16576,47.305634,-122.527664,67,WA,57,Tsuga,heterophylla,western hemlock,Plantae,62748,393,Ripe seed cones,2014,12,17,351,2457009,10,2014,12,17,351,2457009,-9999
+16576,47.305634,-122.527664,67,WA,57,Tsuga,heterophylla,western hemlock,Plantae,62748,480,Breaking needle buds (conifers),2014,2,25,56,2456714,14,2014,4,10,100,2456758,160
+16576,47.305634,-122.527664,67,WA,57,Tsuga,heterophylla,western hemlock,Plantae,62748,480,Breaking needle buds (conifers),2014,9,27,270,2456928,10,2014,9,27,270,2456928,71
+16576,47.305634,-122.527664,67,WA,57,Tsuga,heterophylla,western hemlock,Plantae,62748,480,Breaking needle buds (conifers),2014,12,17,351,2457009,10,2014,12,17,351,2457009,-9999
+16576,47.305634,-122.527664,67,WA,57,Tsuga,heterophylla,western hemlock,Plantae,62748,485,Young needles (conifers),2014,2,25,56,2456714,14,2014,9,27,270,2456928,71
+16576,47.305634,-122.527664,67,WA,57,Tsuga,heterophylla,western hemlock,Plantae,62748,485,Young needles (conifers),2014,12,17,351,2457009,10,2014,12,17,351,2457009,-9999
+16576,47.305634,-122.527664,67,WA,57,Tsuga,heterophylla,western hemlock,Plantae,62748,490,Pollen cones (conifers),2014,9,17,260,2456918,160,2014,9,27,270,2456928,71
+16576,47.305634,-122.527664,67,WA,57,Tsuga,heterophylla,western hemlock,Plantae,62748,490,Pollen cones (conifers),2014,12,17,351,2457009,10,2014,12,17,351,2457009,-9999
+16576,47.305634,-122.527664,67,WA,57,Tsuga,heterophylla,western hemlock,Plantae,62748,491,Recent cone or seed drop,2014,2,11,42,2456700,1,2014,2,11,42,2456700,14
+16576,47.305634,-122.527664,67,WA,57,Tsuga,heterophylla,western hemlock,Plantae,62748,491,Recent cone or seed drop,2014,4,10,100,2456758,44,2014,9,17,260,2456918,10
+16576,47.305634,-122.527664,67,WA,57,Tsuga,heterophylla,western hemlock,Plantae,62748,491,Recent cone or seed drop,2014,12,7,341,2456999,71,2014,12,17,351,2457009,-9999
+16576,47.305634,-122.527664,67,WA,57,Tsuga,heterophylla,western hemlock,Plantae,62748,495,Open pollen cones (conifers),2014,12,17,351,2457009,10,2014,12,17,351,2457009,-9999
+16576,47.305634,-122.527664,67,WA,57,Tsuga,heterophylla,western hemlock,Plantae,62748,503,Pollen release (conifers),2014,12,17,351,2457009,10,2014,12,17,351,2457009,-9999
+16577,47.306248,-122.528137,68,WA,57,Tsuga,heterophylla,western hemlock,Plantae,63033,392,Unripe seed cones,2014,2,10,41,2456699,-9999,2014,2,10,41,2456699,1
+16577,47.306248,-122.528137,68,WA,57,Tsuga,heterophylla,western hemlock,Plantae,63033,392,Unripe seed cones,2014,2,24,55,2456713,13,2014,2,24,55,2456713,42
+16577,47.306248,-122.528137,68,WA,57,Tsuga,heterophylla,western hemlock,Plantae,63033,480,Breaking needle buds (conifers),2014,2,10,41,2456699,-9999,2014,2,10,41,2456699,1
+16577,47.306248,-122.528137,68,WA,57,Tsuga,heterophylla,western hemlock,Plantae,63033,480,Breaking needle buds (conifers),2014,4,7,97,2456755,42,2014,9,25,268,2456926,56
+16577,47.306248,-122.528137,68,WA,57,Tsuga,heterophylla,western hemlock,Plantae,63033,485,Young needles (conifers),2014,2,10,41,2456699,-9999,2014,4,16,106,2456764,162
+16577,47.306248,-122.528137,68,WA,57,Tsuga,heterophylla,western hemlock,Plantae,63033,491,Recent cone or seed drop,2014,2,10,41,2456699,-9999,2014,2,10,41,2456699,1
+16577,47.306248,-122.528137,68,WA,57,Tsuga,heterophylla,western hemlock,Plantae,63033,491,Recent cone or seed drop,2014,4,7,97,2456755,42,2014,4,7,97,2456755,9
+16577,47.306248,-122.528137,68,WA,57,Tsuga,heterophylla,western hemlock,Plantae,63033,491,Recent cone or seed drop,2014,9,25,268,2456926,162,2014,9,25,268,2456926,56
+16578,47.303532,-122.525436,62,WA,57,Tsuga,heterophylla,western hemlock,Plantae,75617,393,Ripe seed cones,2014,11,20,324,2456982,61,2014,11,20,324,2456982,-9999
+16578,47.303532,-122.525436,62,WA,57,Tsuga,heterophylla,western hemlock,Plantae,75617,480,Breaking needle buds (conifers),2014,9,20,263,2456921,-9999,2014,11,20,324,2456982,-9999
+16578,47.303532,-122.525436,62,WA,57,Tsuga,heterophylla,western hemlock,Plantae,75617,485,Young needles (conifers),2014,9,20,263,2456921,-9999,2014,11,20,324,2456982,-9999
+16891,47.30328,-122.512978,81,WA,57,Tsuga,heterophylla,western hemlock,Plantae,64308,480,Breaking needle buds (conifers),2014,2,25,56,2456714,19,2014,2,25,56,2456714,-9999
+17311,40.859993,-73.877342,16,NY,56,Tsuga,canadensis,eastern hemlock,Plantae,66524,392,Unripe seed cones,2014,5,17,137,2456795,21,2014,5,17,137,2456795,5
+17311,40.859993,-73.877342,16,NY,56,Tsuga,canadensis,eastern hemlock,Plantae,66524,392,Unripe seed cones,2014,5,25,145,2456803,3,2014,5,25,145,2456803,4
+17311,40.859993,-73.877342,16,NY,56,Tsuga,canadensis,eastern hemlock,Plantae,66524,392,Unripe seed cones,2014,8,7,219,2456877,7,2014,8,7,219,2456877,49
+17311,40.859993,-73.877342,16,NY,56,Tsuga,canadensis,eastern hemlock,Plantae,66524,393,Ripe seed cones,2014,8,6,218,2456876,6,2014,8,6,218,2456876,1
+17311,40.859993,-73.877342,16,NY,56,Tsuga,canadensis,eastern hemlock,Plantae,66524,393,Ripe seed cones,2014,10,3,276,2456934,57,2014,10,17,290,2456948,14
+17311,40.859993,-73.877342,16,NY,56,Tsuga,canadensis,eastern hemlock,Plantae,66524,480,Breaking needle buds (conifers),2014,5,17,137,2456795,4,2014,5,17,137,2456795,5
+17311,40.859993,-73.877342,16,NY,56,Tsuga,canadensis,eastern hemlock,Plantae,66524,480,Breaking needle buds (conifers),2014,5,25,145,2456803,3,2014,5,25,145,2456803,4
+17311,40.859993,-73.877342,16,NY,56,Tsuga,canadensis,eastern hemlock,Plantae,66524,485,Young needles (conifers),2014,5,17,137,2456795,30,2014,5,17,137,2456795,5
+17311,40.859993,-73.877342,16,NY,56,Tsuga,canadensis,eastern hemlock,Plantae,66524,485,Young needles (conifers),2014,5,25,145,2456803,3,2014,5,25,145,2456803,4
+17311,40.859993,-73.877342,16,NY,56,Tsuga,canadensis,eastern hemlock,Plantae,66524,485,Young needles (conifers),2014,6,1,152,2456810,3,2014,6,1,152,2456810,3
+17311,40.859993,-73.877342,16,NY,56,Tsuga,canadensis,eastern hemlock,Plantae,66527,485,Young needles (conifers),2014,6,1,152,2456810,54,2014,6,1,152,2456810,152
+17311,40.859993,-73.877342,16,NY,56,Tsuga,canadensis,eastern hemlock,Plantae,66524,490,Pollen cones (conifers),2014,4,26,116,2456774,9,2014,5,17,137,2456795,5
+17311,40.859993,-73.877342,16,NY,56,Tsuga,canadensis,eastern hemlock,Plantae,66524,490,Pollen cones (conifers),2014,5,29,149,2456807,4,2014,6,4,155,2456813,7
+17311,40.859993,-73.877342,16,NY,56,Tsuga,canadensis,eastern hemlock,Plantae,66524,490,Pollen cones (conifers),2014,7,2,183,2456841,21,2014,7,31,212,2456870,7
+17311,40.859993,-73.877342,16,NY,56,Tsuga,canadensis,eastern hemlock,Plantae,66527,490,Pollen cones (conifers),2014,4,26,116,2456774,9,2014,4,26,116,2456774,188
+17664,45.52729,-122.84864,56,OR,57,Tsuga,heterophylla,western hemlock,Plantae,68375,480,Breaking needle buds (conifers),2014,4,20,110,2456768,-9999,2014,4,22,112,2456770,-9999
+17664,45.52729,-122.84864,56,OR,57,Tsuga,heterophylla,western hemlock,Plantae,68375,485,Young needles (conifers),2014,4,20,110,2456768,-9999,2014,4,22,112,2456770,-9999
+17731,42.020794,-74.243362,254,NY,56,Tsuga,canadensis,eastern hemlock,Plantae,68877,480,Breaking needle buds (conifers),2014,4,25,115,2456773,-9999,2014,4,25,115,2456773,-9999
+17731,42.020794,-74.243362,254,NY,56,Tsuga,canadensis,eastern hemlock,Plantae,68877,485,Young needles (conifers),2014,4,25,115,2456773,-9999,2014,4,25,115,2456773,-9999
+18132,42.515305,-74.140076,417,NY,56,Tsuga,canadensis,eastern hemlock,Plantae,72333,485,Young needles (conifers),2014,6,25,176,2456834,-9999,2014,7,30,211,2456869,20
+18132,42.515305,-74.140076,417,NY,56,Tsuga,canadensis,eastern hemlock,Plantae,72335,485,Young needles (conifers),2014,6,25,176,2456834,-9999,2014,7,10,191,2456849,67
+18132,42.515305,-74.140076,417,NY,56,Tsuga,canadensis,eastern hemlock,Plantae,72360,485,Young needles (conifers),2014,7,1,182,2456840,-9999,2014,7,10,191,2456849,40
+18753,47.305439,-122.524231,51,WA,57,Tsuga,heterophylla,western hemlock,Plantae,74510,393,Ripe seed cones,2014,9,25,268,2456926,3,2014,9,25,268,2456926,68
+18753,47.305439,-122.524231,51,WA,57,Tsuga,heterophylla,western hemlock,Plantae,74510,491,Recent cone or seed drop,2014,9,22,265,2456923,-9999,2014,9,25,268,2456926,68
+18926,47.30896,-122.528763,57,WA,57,Tsuga,heterophylla,western hemlock,Plantae,75542,392,Unripe seed cones,2014,12,4,338,2456996,52,2014,12,4,338,2456996,-9999
+18926,47.30896,-122.528763,57,WA,57,Tsuga,heterophylla,western hemlock,Plantae,75542,393,Ripe seed cones,2014,10,13,286,2456944,-9999,2014,12,4,338,2456996,-9999
+18926,47.30896,-122.528763,57,WA,57,Tsuga,heterophylla,western hemlock,Plantae,75542,491,Recent cone or seed drop,2014,10,13,286,2456944,-9999,2014,12,4,338,2456996,-9999
+18927,47.308899,-122.529739,60,WA,57,Tsuga,heterophylla,western hemlock,Plantae,75556,480,Breaking needle buds (conifers),2014,12,9,343,2457001,61,2014,12,9,343,2457001,-9999
+18927,47.308899,-122.529739,60,WA,57,Tsuga,heterophylla,western hemlock,Plantae,75556,485,Young needles (conifers),2014,12,9,343,2457001,61,2014,12,9,343,2457001,-9999
+19046,47.307079,-122.535133,76,WA,57,Tsuga,heterophylla,western hemlock,Plantae,76162,393,Ripe seed cones,2014,10,30,303,2456961,-9999,2014,10,30,303,2456961,42
+19046,47.307079,-122.535133,76,WA,57,Tsuga,heterophylla,western hemlock,Plantae,76162,491,Recent cone or seed drop,2014,10,30,303,2456961,-9999,2014,12,11,345,2457003,-9999
+19103,47.309959,-122.536789,75,WA,57,Tsuga,heterophylla,western hemlock,Plantae,76641,485,Young needles (conifers),2014,12,3,337,2456995,42,2014,12,3,337,2456995,-9999
+19103,47.309959,-122.536789,75,WA,57,Tsuga,heterophylla,western hemlock,Plantae,76641,490,Pollen cones (conifers),2014,10,22,295,2456953,-9999,2014,10,22,295,2456953,42
+19193,47.309479,-122.537918,76,WA,57,Tsuga,heterophylla,western hemlock,Plantae,76651,480,Breaking needle buds (conifers),2014,10,22,295,2456953,-9999,2014,10,22,295,2456953,-9999
+19193,47.309479,-122.537918,76,WA,57,Tsuga,heterophylla,western hemlock,Plantae,76651,485,Young needles (conifers),2014,10,22,295,2456953,-9999,2014,10,22,295,2456953,-9999
+2119,40.862221,-73.875191,26,NY,56,Tsuga,canadensis,eastern hemlock,Plantae,66508,393,Ripe seed cones,2015,4,23,113,2457136,7,2015,4,23,113,2457136,5
+2119,40.862221,-73.875191,26,NY,56,Tsuga,canadensis,eastern hemlock,Plantae,66508,393,Ripe seed cones,2015,4,29,119,2457142,1,2015,4,29,119,2457142,7
+2119,40.862221,-73.875191,26,NY,56,Tsuga,canadensis,eastern hemlock,Plantae,66508,485,Young needles (conifers),2015,4,28,118,2457141,5,2015,4,28,118,2457141,1
+2119,40.862221,-73.875191,26,NY,56,Tsuga,canadensis,eastern hemlock,Plantae,66508,485,Young needles (conifers),2015,5,19,139,2457162,13,2015,5,19,139,2457162,44
+2119,40.862221,-73.875191,26,NY,56,Tsuga,canadensis,eastern hemlock,Plantae,66508,485,Young needles (conifers),2015,8,13,225,2457248,42,2015,8,13,225,2457248,33
+2119,40.862221,-73.875191,26,NY,56,Tsuga,canadensis,eastern hemlock,Plantae,66508,490,Pollen cones (conifers),2015,5,19,139,2457162,13,2015,7,2,183,2457206,42
+9199,44.216133,-122.250328,458,OR,57,Tsuga,heterophylla,western hemlock,Plantae,90765,480,Breaking needle buds (conifers),2015,5,19,139,2457162,7,2015,5,19,139,2457162,6
+9199,44.216133,-122.250328,458,OR,57,Tsuga,heterophylla,western hemlock,Plantae,90769,480,Breaking needle buds (conifers),2015,5,19,139,2457162,7,2015,5,19,139,2457162,6
+9199,44.216133,-122.250328,458,OR,57,Tsuga,heterophylla,western hemlock,Plantae,90771,480,Breaking needle buds (conifers),2015,6,3,154,2457177,9,2015,6,3,154,2457177,8
+9199,44.216133,-122.250328,458,OR,57,Tsuga,heterophylla,western hemlock,Plantae,90765,485,Young needles (conifers),2015,5,25,145,2457168,6,2015,6,22,173,2457196,-9999
+9199,44.216133,-122.250328,458,OR,57,Tsuga,heterophylla,western hemlock,Plantae,90769,485,Young needles (conifers),2015,5,25,145,2457168,6,2015,6,22,173,2457196,-9999
+9199,44.216133,-122.250328,458,OR,57,Tsuga,heterophylla,western hemlock,Plantae,90771,485,Young needles (conifers),2015,6,11,162,2457185,8,2015,6,22,173,2457196,-9999
+16399,47.30394,-122.529327,71,WA,57,Tsuga,heterophylla,western hemlock,Plantae,62227,392,Unripe seed cones,2015,4,7,97,2457120,54,2015,4,7,97,2457120,-9999
+16399,47.30394,-122.529327,71,WA,57,Tsuga,heterophylla,western hemlock,Plantae,62227,490,Pollen cones (conifers),2015,2,12,43,2457066,-9999,2015,4,7,97,2457120,-9999
+16399,47.30394,-122.529327,71,WA,57,Tsuga,heterophylla,western hemlock,Plantae,62227,491,Recent cone or seed drop,2015,4,7,97,2457120,54,2015,4,7,97,2457120,-9999
+16399,47.30394,-122.529327,71,WA,57,Tsuga,heterophylla,western hemlock,Plantae,62227,495,Open pollen cones (conifers),2015,4,7,97,2457120,54,2015,4,7,97,2457120,-9999
+16399,47.30394,-122.529327,71,WA,57,Tsuga,heterophylla,western hemlock,Plantae,62227,503,Pollen release (conifers),2015,4,7,97,2457120,54,2015,4,7,97,2457120,-9999
+16576,47.305634,-122.527664,67,WA,57,Tsuga,heterophylla,western hemlock,Plantae,62748,392,Unripe seed cones,2015,4,8,98,2457121,37,2015,4,8,98,2457121,-9999
+16576,47.305634,-122.527664,67,WA,57,Tsuga,heterophylla,western hemlock,Plantae,62748,480,Breaking needle buds (conifers),2015,4,8,98,2457121,37,2015,4,8,98,2457121,-9999
+16576,47.305634,-122.527664,67,WA,57,Tsuga,heterophylla,western hemlock,Plantae,62748,490,Pollen cones (conifers),2015,4,8,98,2457121,37,2015,4,8,98,2457121,-9999
+16576,47.305634,-122.527664,67,WA,57,Tsuga,heterophylla,western hemlock,Plantae,62748,491,Recent cone or seed drop,2015,2,4,35,2457058,-9999,2015,4,8,98,2457121,-9999
+16576,47.305634,-122.527664,67,WA,57,Tsuga,heterophylla,western hemlock,Plantae,62748,495,Open pollen cones (conifers),2015,4,8,98,2457121,37,2015,4,8,98,2457121,-9999
+16576,47.305634,-122.527664,67,WA,57,Tsuga,heterophylla,western hemlock,Plantae,62748,503,Pollen release (conifers),2015,4,8,98,2457121,37,2015,4,8,98,2457121,-9999
+16577,47.306248,-122.528137,68,WA,57,Tsuga,heterophylla,western hemlock,Plantae,63033,393,Ripe seed cones,2015,4,9,99,2457122,37,2015,4,9,99,2457122,-9999
+16577,47.306248,-122.528137,68,WA,57,Tsuga,heterophylla,western hemlock,Plantae,63033,480,Breaking needle buds (conifers),2015,4,9,99,2457122,37,2015,4,9,99,2457122,-9999
+16577,47.306248,-122.528137,68,WA,57,Tsuga,heterophylla,western hemlock,Plantae,63033,485,Young needles (conifers),2015,3,3,62,2457085,27,2015,4,9,99,2457122,-9999
+16577,47.306248,-122.528137,68,WA,57,Tsuga,heterophylla,western hemlock,Plantae,63033,490,Pollen cones (conifers),2015,4,9,99,2457122,37,2015,4,9,99,2457122,-9999
+16577,47.306248,-122.528137,68,WA,57,Tsuga,heterophylla,western hemlock,Plantae,63033,491,Recent cone or seed drop,2015,4,9,99,2457122,37,2015,4,9,99,2457122,-9999
+16577,47.306248,-122.528137,68,WA,57,Tsuga,heterophylla,western hemlock,Plantae,63033,495,Open pollen cones (conifers),2015,4,9,99,2457122,37,2015,4,9,99,2457122,-9999
+16577,47.306248,-122.528137,68,WA,57,Tsuga,heterophylla,western hemlock,Plantae,63033,503,Pollen release (conifers),2015,4,9,99,2457122,37,2015,4,9,99,2457122,-9999
+16578,47.303532,-122.525436,62,WA,57,Tsuga,heterophylla,western hemlock,Plantae,75617,480,Breaking needle buds (conifers),2015,2,26,57,2457080,14,2015,5,12,132,2457155,-9999
+16578,47.303532,-122.525436,62,WA,57,Tsuga,heterophylla,western hemlock,Plantae,75617,485,Young needles (conifers),2015,2,26,57,2457080,14,2015,5,12,132,2457155,-9999
+18132,42.515305,-74.140076,417,NY,56,Tsuga,canadensis,eastern hemlock,Plantae,72333,485,Young needles (conifers),2015,7,1,182,2457205,2,2015,7,1,182,2457205,41
+18132,42.515305,-74.140076,417,NY,56,Tsuga,canadensis,eastern hemlock,Plantae,72335,485,Young needles (conifers),2015,7,1,182,2457205,41,2015,7,1,182,2457205,41
+18535,40.861065,-73.879005,28,NY,56,Tsuga,canadensis,eastern hemlock,Plantae,73377,393,Ripe seed cones,2015,10,9,282,2457305,177,2015,11,11,315,2457338,-9999
+18535,40.861065,-73.879005,28,NY,56,Tsuga,canadensis,eastern hemlock,Plantae,73377,485,Young needles (conifers),2015,10,9,282,2457305,177,2015,10,9,282,2457305,15
+18535,40.861065,-73.879005,28,NY,56,Tsuga,canadensis,eastern hemlock,Plantae,73377,490,Pollen cones (conifers),2015,10,9,282,2457305,177,2015,10,9,282,2457305,15
+18535,40.861065,-73.879005,28,NY,56,Tsuga,canadensis,eastern hemlock,Plantae,73377,491,Recent cone or seed drop,2015,10,24,297,2457320,192,2015,10,24,297,2457320,18
+18753,47.305439,-122.524231,51,WA,57,Tsuga,heterophylla,western hemlock,Plantae,74510,392,Unripe seed cones,2015,2,17,48,2457071,-9999,2015,5,12,132,2457155,-9999
+18753,47.305439,-122.524231,51,WA,57,Tsuga,heterophylla,western hemlock,Plantae,74510,393,Ripe seed cones,2015,2,17,48,2457071,-9999,2015,3,17,76,2457099,30
+18753,47.305439,-122.524231,51,WA,57,Tsuga,heterophylla,western hemlock,Plantae,74510,393,Ripe seed cones,2015,5,12,132,2457155,26,2015,5,12,132,2457155,-9999
+18753,47.305439,-122.524231,51,WA,57,Tsuga,heterophylla,western hemlock,Plantae,74510,480,Breaking needle buds (conifers),2015,4,16,106,2457129,30,2015,5,12,132,2457155,-9999
+18753,47.305439,-122.524231,51,WA,57,Tsuga,heterophylla,western hemlock,Plantae,74510,485,Young needles (conifers),2015,4,16,106,2457129,30,2015,5,12,132,2457155,-9999
+18753,47.305439,-122.524231,51,WA,57,Tsuga,heterophylla,western hemlock,Plantae,74510,490,Pollen cones (conifers),2015,4,16,106,2457129,30,2015,4,16,106,2457129,26
+18753,47.305439,-122.524231,51,WA,57,Tsuga,heterophylla,western hemlock,Plantae,74510,491,Recent cone or seed drop,2015,2,17,48,2457071,-9999,2015,2,17,48,2457071,28
+18753,47.305439,-122.524231,51,WA,57,Tsuga,heterophylla,western hemlock,Plantae,74510,491,Recent cone or seed drop,2015,5,12,132,2457155,26,2015,5,12,132,2457155,-9999
+18753,47.305439,-122.524231,51,WA,57,Tsuga,heterophylla,western hemlock,Plantae,74510,495,Open pollen cones (conifers),2015,4,16,106,2457129,30,2015,4,16,106,2457129,26
+18753,47.305439,-122.524231,51,WA,57,Tsuga,heterophylla,western hemlock,Plantae,74510,503,Pollen release (conifers),2015,4,16,106,2457129,30,2015,4,16,106,2457129,26
+18765,47.305649,-122.523529,51,-9999,57,Tsuga,heterophylla,western hemlock,Plantae,74527,393,Ripe seed cones,2015,2,18,49,2457072,-9999,2015,2,18,49,2457072,-9999
+18765,47.305649,-122.523529,51,-9999,57,Tsuga,heterophylla,western hemlock,Plantae,74527,491,Recent cone or seed drop,2015,2,18,49,2457072,-9999,2015,2,18,49,2457072,-9999
+18926,47.30896,-122.528763,57,WA,57,Tsuga,heterophylla,western hemlock,Plantae,75542,485,Young needles (conifers),2015,5,26,146,2457169,110,2015,5,26,146,2457169,-9999
+18926,47.30896,-122.528763,57,WA,57,Tsuga,heterophylla,western hemlock,Plantae,75542,491,Recent cone or seed drop,2015,2,5,36,2457059,-9999,2015,2,5,36,2457059,110
+18927,47.308899,-122.529739,60,WA,57,Tsuga,heterophylla,western hemlock,Plantae,75556,392,Unripe seed cones,2015,4,21,111,2457134,35,2015,4,21,111,2457134,35
+18927,47.308899,-122.529739,60,WA,57,Tsuga,heterophylla,western hemlock,Plantae,75556,393,Ripe seed cones,2015,2,19,50,2457073,-9999,2015,2,19,50,2457073,25
+18927,47.308899,-122.529739,60,WA,57,Tsuga,heterophylla,western hemlock,Plantae,75556,393,Ripe seed cones,2015,3,17,76,2457099,1,2015,5,26,146,2457169,-9999
+18927,47.308899,-122.529739,60,WA,57,Tsuga,heterophylla,western hemlock,Plantae,75556,480,Breaking needle buds (conifers),2015,4,21,111,2457134,35,2015,4,21,111,2457134,35
+18927,47.308899,-122.529739,60,WA,57,Tsuga,heterophylla,western hemlock,Plantae,75556,485,Young needles (conifers),2015,4,21,111,2457134,35,2015,5,26,146,2457169,-9999
+18927,47.308899,-122.529739,60,WA,57,Tsuga,heterophylla,western hemlock,Plantae,75556,490,Pollen cones (conifers),2015,2,19,50,2457073,-9999,2015,2,19,50,2457073,25
+18927,47.308899,-122.529739,60,WA,57,Tsuga,heterophylla,western hemlock,Plantae,75556,490,Pollen cones (conifers),2015,3,17,76,2457099,1,2015,4,21,111,2457134,35
+18927,47.308899,-122.529739,60,WA,57,Tsuga,heterophylla,western hemlock,Plantae,75556,491,Recent cone or seed drop,2015,2,19,50,2457073,-9999,2015,2,19,50,2457073,25
+18927,47.308899,-122.529739,60,WA,57,Tsuga,heterophylla,western hemlock,Plantae,75556,491,Recent cone or seed drop,2015,4,21,111,2457134,35,2015,5,26,146,2457169,-9999
+18927,47.308899,-122.529739,60,WA,57,Tsuga,heterophylla,western hemlock,Plantae,75556,495,Open pollen cones (conifers),2015,4,21,111,2457134,35,2015,4,21,111,2457134,35
+18927,47.308899,-122.529739,60,WA,57,Tsuga,heterophylla,western hemlock,Plantae,75556,503,Pollen release (conifers),2015,4,21,111,2457134,35,2015,4,21,111,2457134,35
+19046,47.307079,-122.535133,76,WA,57,Tsuga,heterophylla,western hemlock,Plantae,76162,480,Breaking needle buds (conifers),2015,4,28,118,2457141,14,2015,4,28,118,2457141,-9999
+19046,47.307079,-122.535133,76,WA,57,Tsuga,heterophylla,western hemlock,Plantae,76162,485,Young needles (conifers),2015,4,14,104,2457127,63,2015,4,28,118,2457141,-9999
+19046,47.307079,-122.535133,76,WA,57,Tsuga,heterophylla,western hemlock,Plantae,76162,491,Recent cone or seed drop,2015,2,10,41,2457064,-9999,2015,4,14,104,2457127,14
+19103,47.309959,-122.536789,75,WA,57,Tsuga,heterophylla,western hemlock,Plantae,76641,392,Unripe seed cones,2015,3,3,62,2457085,28,2015,3,3,62,2457085,2
+19103,47.309959,-122.536789,75,WA,57,Tsuga,heterophylla,western hemlock,Plantae,76641,392,Unripe seed cones,2015,4,14,104,2457127,40,2015,4,14,104,2457127,-9999
+19103,47.309959,-122.536789,75,WA,57,Tsuga,heterophylla,western hemlock,Plantae,76641,393,Ripe seed cones,2015,2,3,34,2457057,-9999,2015,2,3,34,2457057,28
+19103,47.309959,-122.536789,75,WA,57,Tsuga,heterophylla,western hemlock,Plantae,76641,480,Breaking needle buds (conifers),2015,3,3,62,2457085,28,2015,4,14,104,2457127,-9999
+19103,47.309959,-122.536789,75,WA,57,Tsuga,heterophylla,western hemlock,Plantae,76641,485,Young needles (conifers),2015,4,14,104,2457127,40,2015,4,14,104,2457127,-9999
+19103,47.309959,-122.536789,75,WA,57,Tsuga,heterophylla,western hemlock,Plantae,76641,490,Pollen cones (conifers),2015,4,14,104,2457127,40,2015,4,14,104,2457127,-9999
+19103,47.309959,-122.536789,75,WA,57,Tsuga,heterophylla,western hemlock,Plantae,76641,491,Recent cone or seed drop,2015,2,3,34,2457057,-9999,2015,2,3,34,2457057,28
+19103,47.309959,-122.536789,75,WA,57,Tsuga,heterophylla,western hemlock,Plantae,76641,495,Open pollen cones (conifers),2015,4,14,104,2457127,40,2015,4,14,104,2457127,-9999
+19194,47.310612,-122.538071,76,WA,57,Tsuga,heterophylla,western hemlock,Plantae,76665,392,Unripe seed cones,2015,3,5,64,2457087,9,2015,3,5,64,2457087,49
+19194,47.310612,-122.538071,76,WA,57,Tsuga,heterophylla,western hemlock,Plantae,76665,480,Breaking needle buds (conifers),2015,4,23,113,2457136,49,2015,4,23,113,2457136,-9999
+19194,47.310612,-122.538071,76,WA,57,Tsuga,heterophylla,western hemlock,Plantae,76665,485,Young needles (conifers),2015,3,5,64,2457087,9,2015,4,23,113,2457136,-9999
+20702,44.284657,-73.982742,569,NY,56,Tsuga,canadensis,eastern hemlock,Plantae,88646,392,Unripe seed cones,2015,9,8,251,2457274,104,2015,9,16,259,2457282,12
+2119,40.862221,-73.875191,26,NY,56,Tsuga,canadensis,eastern hemlock,Plantae,66508,392,Unripe seed cones,2016,3,11,71,2457459,3,2016,3,11,71,2457459,2
+2119,40.862221,-73.875191,26,NY,56,Tsuga,canadensis,eastern hemlock,Plantae,66508,392,Unripe seed cones,2016,3,19,79,2457467,1,2016,3,19,79,2457467,3
+2119,40.862221,-73.875191,26,NY,56,Tsuga,canadensis,eastern hemlock,Plantae,66508,392,Unripe seed cones,2016,3,24,84,2457472,2,2016,3,24,84,2457472,1
+2119,40.862221,-73.875191,26,NY,56,Tsuga,canadensis,eastern hemlock,Plantae,66508,392,Unripe seed cones,2016,4,13,104,2457492,3,2016,4,13,104,2457492,2
+2119,40.862221,-73.875191,26,NY,56,Tsuga,canadensis,eastern hemlock,Plantae,66508,392,Unripe seed cones,2016,5,5,126,2457514,4,2016,5,8,129,2457517,2
+2119,40.862221,-73.875191,26,NY,56,Tsuga,canadensis,eastern hemlock,Plantae,66508,392,Unripe seed cones,2016,5,20,141,2457529,1,2016,5,21,142,2457530,4
+2119,40.862221,-73.875191,26,NY,56,Tsuga,canadensis,eastern hemlock,Plantae,66508,392,Unripe seed cones,2016,6,17,169,2457557,1,2016,6,17,169,2457557,2
+2119,40.862221,-73.875191,26,NY,56,Tsuga,canadensis,eastern hemlock,Plantae,66508,392,Unripe seed cones,2016,7,4,186,2457574,3,2016,7,4,186,2457574,8
+2119,40.862221,-73.875191,26,NY,56,Tsuga,canadensis,eastern hemlock,Plantae,66508,392,Unripe seed cones,2016,7,17,199,2457587,4,2016,7,17,199,2457587,3
+2119,40.862221,-73.875191,26,NY,56,Tsuga,canadensis,eastern hemlock,Plantae,66508,392,Unripe seed cones,2016,8,14,227,2457615,9,2016,8,14,227,2457615,4
+2119,40.862221,-73.875191,26,NY,56,Tsuga,canadensis,eastern hemlock,Plantae,66508,392,Unripe seed cones,2016,9,13,257,2457645,5,2016,9,14,258,2457646,3
+2119,40.862221,-73.875191,26,NY,56,Tsuga,canadensis,eastern hemlock,Plantae,66508,392,Unripe seed cones,2016,9,27,271,2457659,5,2016,9,27,271,2457659,1
+2119,40.862221,-73.875191,26,NY,56,Tsuga,canadensis,eastern hemlock,Plantae,66508,392,Unripe seed cones,2016,10,15,289,2457677,1,2016,10,15,289,2457677,1
+2119,40.862221,-73.875191,26,NY,56,Tsuga,canadensis,eastern hemlock,Plantae,66508,392,Unripe seed cones,2016,11,5,310,2457698,1,2016,11,5,310,2457698,2
+2119,40.862221,-73.875191,26,NY,56,Tsuga,canadensis,eastern hemlock,Plantae,66508,392,Unripe seed cones,2016,12,4,339,2457727,3,2016,12,4,339,2457727,-9999
+2119,40.862221,-73.875191,26,NY,56,Tsuga,canadensis,eastern hemlock,Plantae,66508,393,Ripe seed cones,2016,4,19,110,2457498,2,2016,4,19,110,2457498,2
+2119,40.862221,-73.875191,26,NY,56,Tsuga,canadensis,eastern hemlock,Plantae,66508,393,Ripe seed cones,2016,5,10,131,2457519,2,2016,5,11,132,2457520,4
+2119,40.862221,-73.875191,26,NY,56,Tsuga,canadensis,eastern hemlock,Plantae,66508,393,Ripe seed cones,2016,5,20,141,2457529,1,2016,5,20,141,2457529,1
+2119,40.862221,-73.875191,26,NY,56,Tsuga,canadensis,eastern hemlock,Plantae,66508,393,Ripe seed cones,2016,5,26,147,2457535,1,2016,5,31,152,2457540,3
+2119,40.862221,-73.875191,26,NY,56,Tsuga,canadensis,eastern hemlock,Plantae,66508,393,Ripe seed cones,2016,6,7,159,2457547,2,2016,6,7,159,2457547,2
+2119,40.862221,-73.875191,26,NY,56,Tsuga,canadensis,eastern hemlock,Plantae,66508,393,Ripe seed cones,2016,6,17,169,2457557,1,2016,6,17,169,2457557,2
+2119,40.862221,-73.875191,26,NY,56,Tsuga,canadensis,eastern hemlock,Plantae,66508,393,Ripe seed cones,2016,7,4,186,2457574,3,2016,7,4,186,2457574,8
+2119,40.862221,-73.875191,26,NY,56,Tsuga,canadensis,eastern hemlock,Plantae,66508,393,Ripe seed cones,2016,7,13,195,2457583,1,2016,7,17,199,2457587,3
+2119,40.862221,-73.875191,26,NY,56,Tsuga,canadensis,eastern hemlock,Plantae,66508,393,Ripe seed cones,2016,8,2,215,2457603,4,2016,8,2,215,2457603,3
+2119,40.862221,-73.875191,26,NY,56,Tsuga,canadensis,eastern hemlock,Plantae,66508,393,Ripe seed cones,2016,8,18,231,2457619,4,2016,8,21,234,2457622,4
+2119,40.862221,-73.875191,26,NY,56,Tsuga,canadensis,eastern hemlock,Plantae,66508,393,Ripe seed cones,2016,8,30,243,2457631,5,2016,8,30,243,2457631,3
+2119,40.862221,-73.875191,26,NY,56,Tsuga,canadensis,eastern hemlock,Plantae,66508,393,Ripe seed cones,2016,9,6,250,2457638,4,2016,9,6,250,2457638,2
+2119,40.862221,-73.875191,26,NY,56,Tsuga,canadensis,eastern hemlock,Plantae,66508,393,Ripe seed cones,2016,9,13,257,2457645,5,2016,9,14,258,2457646,3
+2119,40.862221,-73.875191,26,NY,56,Tsuga,canadensis,eastern hemlock,Plantae,66508,393,Ripe seed cones,2016,9,28,272,2457660,6,2016,9,28,272,2457660,1
+2119,40.862221,-73.875191,26,NY,56,Tsuga,canadensis,eastern hemlock,Plantae,66508,393,Ripe seed cones,2016,10,11,285,2457673,3,2016,10,11,285,2457673,3
+2119,40.862221,-73.875191,26,NY,56,Tsuga,canadensis,eastern hemlock,Plantae,66508,393,Ripe seed cones,2016,10,18,292,2457680,2,2016,10,18,292,2457680,2
+2119,40.862221,-73.875191,26,NY,56,Tsuga,canadensis,eastern hemlock,Plantae,66508,393,Ripe seed cones,2016,11,2,307,2457695,3,2016,11,2,307,2457695,2
+2119,40.862221,-73.875191,26,NY,56,Tsuga,canadensis,eastern hemlock,Plantae,66508,393,Ripe seed cones,2016,11,5,310,2457698,1,2016,11,5,310,2457698,2
+2119,40.862221,-73.875191,26,NY,56,Tsuga,canadensis,eastern hemlock,Plantae,66508,393,Ripe seed cones,2016,11,10,315,2457703,3,2016,11,10,315,2457703,2
+2119,40.862221,-73.875191,26,NY,56,Tsuga,canadensis,eastern hemlock,Plantae,66508,393,Ripe seed cones,2016,11,26,331,2457719,3,2016,11,26,331,2457719,2
+2119,40.862221,-73.875191,26,NY,56,Tsuga,canadensis,eastern hemlock,Plantae,66508,393,Ripe seed cones,2016,12,4,339,2457727,3,2016,12,4,339,2457727,-9999
+2119,40.862221,-73.875191,26,NY,56,Tsuga,canadensis,eastern hemlock,Plantae,66508,480,Breaking needle buds (conifers),2016,5,20,141,2457529,1,2016,5,20,141,2457529,1
+2119,40.862221,-73.875191,26,NY,56,Tsuga,canadensis,eastern hemlock,Plantae,66508,480,Breaking needle buds (conifers),2016,6,17,169,2457557,1,2016,6,17,169,2457557,2
+2119,40.862221,-73.875191,26,NY,56,Tsuga,canadensis,eastern hemlock,Plantae,66508,485,Young needles (conifers),2016,3,11,71,2457459,3,2016,3,11,71,2457459,2
+2119,40.862221,-73.875191,26,NY,56,Tsuga,canadensis,eastern hemlock,Plantae,66508,485,Young needles (conifers),2016,3,19,79,2457467,1,2016,3,19,79,2457467,3
+2119,40.862221,-73.875191,26,NY,56,Tsuga,canadensis,eastern hemlock,Plantae,66508,485,Young needles (conifers),2016,3,24,84,2457472,2,2016,3,24,84,2457472,1
+2119,40.862221,-73.875191,26,NY,56,Tsuga,canadensis,eastern hemlock,Plantae,66508,485,Young needles (conifers),2016,3,26,86,2457474,1,2016,3,26,86,2457474,6
+2119,40.862221,-73.875191,26,NY,56,Tsuga,canadensis,eastern hemlock,Plantae,66508,485,Young needles (conifers),2016,5,11,132,2457520,1,2016,5,11,132,2457520,4
+2119,40.862221,-73.875191,26,NY,56,Tsuga,canadensis,eastern hemlock,Plantae,66508,485,Young needles (conifers),2016,5,17,138,2457526,2,2016,5,17,138,2457526,2
+2119,40.862221,-73.875191,26,NY,56,Tsuga,canadensis,eastern hemlock,Plantae,66508,485,Young needles (conifers),2016,5,20,141,2457529,1,2016,5,31,152,2457540,3
+2119,40.862221,-73.875191,26,NY,56,Tsuga,canadensis,eastern hemlock,Plantae,66508,485,Young needles (conifers),2016,6,7,159,2457547,2,2016,6,9,161,2457549,3
+2119,40.862221,-73.875191,26,NY,56,Tsuga,canadensis,eastern hemlock,Plantae,66508,485,Young needles (conifers),2016,6,15,167,2457555,3,2016,6,17,169,2457557,2
+2119,40.862221,-73.875191,26,NY,56,Tsuga,canadensis,eastern hemlock,Plantae,66508,485,Young needles (conifers),2016,6,22,174,2457562,3,2016,6,22,174,2457562,1
+2119,40.862221,-73.875191,26,NY,56,Tsuga,canadensis,eastern hemlock,Plantae,66508,485,Young needles (conifers),2016,6,30,182,2457570,5,2016,6,30,182,2457570,1
+2119,40.862221,-73.875191,26,NY,56,Tsuga,canadensis,eastern hemlock,Plantae,66508,485,Young needles (conifers),2016,7,21,203,2457591,1,2016,7,21,203,2457591,5
+2119,40.862221,-73.875191,26,NY,56,Tsuga,canadensis,eastern hemlock,Plantae,66508,485,Young needles (conifers),2016,8,2,215,2457603,7,2016,8,2,215,2457603,3
+2119,40.862221,-73.875191,26,NY,56,Tsuga,canadensis,eastern hemlock,Plantae,66508,485,Young needles (conifers),2016,8,18,231,2457619,4,2016,8,18,231,2457619,3
+2119,40.862221,-73.875191,26,NY,56,Tsuga,canadensis,eastern hemlock,Plantae,66508,485,Young needles (conifers),2016,8,25,238,2457626,4,2016,8,25,238,2457626,5
+2119,40.862221,-73.875191,26,NY,56,Tsuga,canadensis,eastern hemlock,Plantae,66508,485,Young needles (conifers),2016,9,2,246,2457634,3,2016,9,2,246,2457634,4
+2119,40.862221,-73.875191,26,NY,56,Tsuga,canadensis,eastern hemlock,Plantae,66508,485,Young needles (conifers),2016,9,22,266,2457654,1,2016,9,22,266,2457654,6
+2119,40.862221,-73.875191,26,NY,56,Tsuga,canadensis,eastern hemlock,Plantae,66508,485,Young needles (conifers),2016,9,29,273,2457661,1,2016,10,1,275,2457663,4
+2119,40.862221,-73.875191,26,NY,56,Tsuga,canadensis,eastern hemlock,Plantae,66508,485,Young needles (conifers),2016,10,23,297,2457685,1,2016,10,23,297,2457685,1
+2119,40.862221,-73.875191,26,NY,56,Tsuga,canadensis,eastern hemlock,Plantae,66508,485,Young needles (conifers),2016,12,4,339,2457727,3,2016,12,4,339,2457727,-9999
+2119,40.862221,-73.875191,26,NY,56,Tsuga,canadensis,eastern hemlock,Plantae,66508,490,Pollen cones (conifers),2016,3,26,86,2457474,1,2016,3,26,86,2457474,6
+2119,40.862221,-73.875191,26,NY,56,Tsuga,canadensis,eastern hemlock,Plantae,66508,490,Pollen cones (conifers),2016,4,3,94,2457482,2,2016,4,3,94,2457482,2
+2119,40.862221,-73.875191,26,NY,56,Tsuga,canadensis,eastern hemlock,Plantae,66508,490,Pollen cones (conifers),2016,4,10,101,2457489,2,2016,4,10,101,2457489,3
+2119,40.862221,-73.875191,26,NY,56,Tsuga,canadensis,eastern hemlock,Plantae,66508,490,Pollen cones (conifers),2016,4,17,108,2457496,2,2016,4,17,108,2457496,2
+2119,40.862221,-73.875191,26,NY,56,Tsuga,canadensis,eastern hemlock,Plantae,66508,490,Pollen cones (conifers),2016,5,1,122,2457510,2,2016,5,1,122,2457510,4
+2119,40.862221,-73.875191,26,NY,56,Tsuga,canadensis,eastern hemlock,Plantae,66508,490,Pollen cones (conifers),2016,5,11,132,2457520,1,2016,5,11,132,2457520,4
+2119,40.862221,-73.875191,26,NY,56,Tsuga,canadensis,eastern hemlock,Plantae,66508,490,Pollen cones (conifers),2016,6,5,157,2457545,2,2016,6,5,157,2457545,2
+2119,40.862221,-73.875191,26,NY,56,Tsuga,canadensis,eastern hemlock,Plantae,66508,490,Pollen cones (conifers),2016,6,12,164,2457552,3,2016,6,12,164,2457552,3
+2119,40.862221,-73.875191,26,NY,56,Tsuga,canadensis,eastern hemlock,Plantae,66508,490,Pollen cones (conifers),2016,6,19,171,2457559,2,2016,6,19,171,2457559,3
+2119,40.862221,-73.875191,26,NY,56,Tsuga,canadensis,eastern hemlock,Plantae,66508,490,Pollen cones (conifers),2016,6,25,177,2457565,2,2016,6,25,177,2457565,5
+2119,40.862221,-73.875191,26,NY,56,Tsuga,canadensis,eastern hemlock,Plantae,66508,490,Pollen cones (conifers),2016,8,14,227,2457615,9,2016,8,14,227,2457615,4
+2119,40.862221,-73.875191,26,NY,56,Tsuga,canadensis,eastern hemlock,Plantae,66508,490,Pollen cones (conifers),2016,8,21,234,2457622,3,2016,8,21,234,2457622,4
+2119,40.862221,-73.875191,26,NY,56,Tsuga,canadensis,eastern hemlock,Plantae,66508,490,Pollen cones (conifers),2016,9,17,261,2457649,4,2016,9,17,261,2457649,4
+2119,40.862221,-73.875191,26,NY,56,Tsuga,canadensis,eastern hemlock,Plantae,66508,490,Pollen cones (conifers),2016,10,1,275,2457663,2,2016,10,1,275,2457663,4
+2119,40.862221,-73.875191,26,NY,56,Tsuga,canadensis,eastern hemlock,Plantae,66508,490,Pollen cones (conifers),2016,10,8,282,2457670,3,2016,10,8,282,2457670,3
+2119,40.862221,-73.875191,26,NY,56,Tsuga,canadensis,eastern hemlock,Plantae,66508,490,Pollen cones (conifers),2016,10,16,290,2457678,2,2016,10,16,290,2457678,2
+2119,40.862221,-73.875191,26,NY,56,Tsuga,canadensis,eastern hemlock,Plantae,66508,490,Pollen cones (conifers),2016,10,23,297,2457685,1,2016,10,23,297,2457685,1
+2119,40.862221,-73.875191,26,NY,56,Tsuga,canadensis,eastern hemlock,Plantae,66508,490,Pollen cones (conifers),2016,10,30,304,2457692,3,2016,10,30,304,2457692,1
+2119,40.862221,-73.875191,26,NY,56,Tsuga,canadensis,eastern hemlock,Plantae,66508,490,Pollen cones (conifers),2016,11,5,310,2457698,1,2016,11,5,310,2457698,2
+2119,40.862221,-73.875191,26,NY,56,Tsuga,canadensis,eastern hemlock,Plantae,66508,490,Pollen cones (conifers),2016,11,12,317,2457705,2,2016,11,12,317,2457705,1
+2119,40.862221,-73.875191,26,NY,56,Tsuga,canadensis,eastern hemlock,Plantae,66508,490,Pollen cones (conifers),2016,11,19,324,2457712,2,2016,11,19,324,2457712,2
+2119,40.862221,-73.875191,26,NY,56,Tsuga,canadensis,eastern hemlock,Plantae,66508,490,Pollen cones (conifers),2016,11,26,331,2457719,3,2016,11,26,331,2457719,2
+2119,40.862221,-73.875191,26,NY,56,Tsuga,canadensis,eastern hemlock,Plantae,66508,490,Pollen cones (conifers),2016,12,4,339,2457727,3,2016,12,4,339,2457727,-9999
+2119,40.862221,-73.875191,26,NY,56,Tsuga,canadensis,eastern hemlock,Plantae,66508,491,Recent cone or seed drop,2016,11,12,317,2457705,2,2016,11,12,317,2457705,1
+2119,40.862221,-73.875191,26,NY,56,Tsuga,canadensis,eastern hemlock,Plantae,66508,495,Open pollen cones (conifers),2016,3,26,86,2457474,1,2016,3,26,86,2457474,6
+2119,40.862221,-73.875191,26,NY,56,Tsuga,canadensis,eastern hemlock,Plantae,66508,495,Open pollen cones (conifers),2016,4,3,94,2457482,2,2016,4,3,94,2457482,2
+2119,40.862221,-73.875191,26,NY,56,Tsuga,canadensis,eastern hemlock,Plantae,66508,495,Open pollen cones (conifers),2016,4,10,101,2457489,2,2016,4,10,101,2457489,3
+2119,40.862221,-73.875191,26,NY,56,Tsuga,canadensis,eastern hemlock,Plantae,66508,495,Open pollen cones (conifers),2016,4,17,108,2457496,2,2016,4,17,108,2457496,2
+2119,40.862221,-73.875191,26,NY,56,Tsuga,canadensis,eastern hemlock,Plantae,66508,495,Open pollen cones (conifers),2016,6,12,164,2457552,3,2016,6,12,164,2457552,3
+2119,40.862221,-73.875191,26,NY,56,Tsuga,canadensis,eastern hemlock,Plantae,66508,495,Open pollen cones (conifers),2016,6,19,171,2457559,3,2016,6,19,171,2457559,3
+2119,40.862221,-73.875191,26,NY,56,Tsuga,canadensis,eastern hemlock,Plantae,66508,495,Open pollen cones (conifers),2016,6,25,177,2457565,2,2016,6,25,177,2457565,5
+2119,40.862221,-73.875191,26,NY,56,Tsuga,canadensis,eastern hemlock,Plantae,66508,495,Open pollen cones (conifers),2016,7,17,199,2457587,4,2016,7,17,199,2457587,3
+2119,40.862221,-73.875191,26,NY,56,Tsuga,canadensis,eastern hemlock,Plantae,66508,495,Open pollen cones (conifers),2016,8,14,227,2457615,9,2016,8,14,227,2457615,4
+2119,40.862221,-73.875191,26,NY,56,Tsuga,canadensis,eastern hemlock,Plantae,66508,495,Open pollen cones (conifers),2016,8,21,234,2457622,3,2016,8,21,234,2457622,4
+2119,40.862221,-73.875191,26,NY,56,Tsuga,canadensis,eastern hemlock,Plantae,66508,495,Open pollen cones (conifers),2016,9,17,261,2457649,4,2016,9,17,261,2457649,4
+2119,40.862221,-73.875191,26,NY,56,Tsuga,canadensis,eastern hemlock,Plantae,66508,495,Open pollen cones (conifers),2016,10,8,282,2457670,3,2016,10,8,282,2457670,3
+2119,40.862221,-73.875191,26,NY,56,Tsuga,canadensis,eastern hemlock,Plantae,66508,495,Open pollen cones (conifers),2016,10,16,290,2457678,2,2016,10,16,290,2457678,2
+2119,40.862221,-73.875191,26,NY,56,Tsuga,canadensis,eastern hemlock,Plantae,66508,495,Open pollen cones (conifers),2016,10,23,297,2457685,1,2016,10,23,297,2457685,1
+2119,40.862221,-73.875191,26,NY,56,Tsuga,canadensis,eastern hemlock,Plantae,66508,495,Open pollen cones (conifers),2016,10,30,304,2457692,3,2016,10,30,304,2457692,1
+2119,40.862221,-73.875191,26,NY,56,Tsuga,canadensis,eastern hemlock,Plantae,66508,495,Open pollen cones (conifers),2016,11,5,310,2457698,1,2016,11,5,310,2457698,2
+2119,40.862221,-73.875191,26,NY,56,Tsuga,canadensis,eastern hemlock,Plantae,66508,495,Open pollen cones (conifers),2016,11,26,331,2457719,3,2016,11,26,331,2457719,2
+2119,40.862221,-73.875191,26,NY,56,Tsuga,canadensis,eastern hemlock,Plantae,66508,495,Open pollen cones (conifers),2016,12,4,339,2457727,3,2016,12,4,339,2457727,-9999
+2119,40.862221,-73.875191,26,NY,56,Tsuga,canadensis,eastern hemlock,Plantae,66508,503,Pollen release (conifers),2016,9,29,273,2457661,1,2016,9,29,273,2457661,2
+12249,42.518417,-76.556999,175,NY,56,Tsuga,canadensis,eastern hemlock,Plantae,52575,393,Ripe seed cones,2016,7,11,193,2457581,116,2016,7,11,193,2457581,-9999
+16897,38.071678,-78.675873,200,VA,56,Tsuga,canadensis,eastern hemlock,Plantae,83225,392,Unripe seed cones,2016,3,21,81,2457469,-9999,2016,3,21,81,2457469,-9999
+16897,38.071678,-78.675873,200,VA,56,Tsuga,canadensis,eastern hemlock,Plantae,83225,393,Ripe seed cones,2016,3,21,81,2457469,-9999,2016,3,21,81,2457469,-9999
+16897,38.071678,-78.675873,200,VA,56,Tsuga,canadensis,eastern hemlock,Plantae,83225,480,Breaking needle buds (conifers),2016,3,21,81,2457469,-9999,2016,3,21,81,2457469,-9999
+16897,38.071678,-78.675873,200,VA,56,Tsuga,canadensis,eastern hemlock,Plantae,83225,485,Young needles (conifers),2016,3,21,81,2457469,-9999,2016,3,21,81,2457469,-9999
+16897,38.071678,-78.675873,200,VA,56,Tsuga,canadensis,eastern hemlock,Plantae,83225,490,Pollen cones (conifers),2016,3,21,81,2457469,-9999,2016,3,21,81,2457469,-9999
+16897,38.071678,-78.675873,200,VA,56,Tsuga,canadensis,eastern hemlock,Plantae,83225,491,Recent cone or seed drop,2016,3,21,81,2457469,-9999,2016,3,21,81,2457469,-9999
+16897,38.071678,-78.675873,200,VA,56,Tsuga,canadensis,eastern hemlock,Plantae,83225,495,Open pollen cones (conifers),2016,3,21,81,2457469,-9999,2016,3,21,81,2457469,-9999
+16897,38.071678,-78.675873,200,VA,56,Tsuga,canadensis,eastern hemlock,Plantae,83225,503,Pollen release (conifers),2016,3,21,81,2457469,-9999,2016,3,21,81,2457469,-9999
+17311,40.859993,-73.877342,16,NY,56,Tsuga,canadensis,eastern hemlock,Plantae,66524,392,Unripe seed cones,2016,3,19,79,2457467,-9999,2016,3,26,86,2457474,15
+17311,40.859993,-73.877342,16,NY,56,Tsuga,canadensis,eastern hemlock,Plantae,66524,392,Unripe seed cones,2016,4,13,104,2457492,3,2016,4,13,104,2457492,4
+17311,40.859993,-73.877342,16,NY,56,Tsuga,canadensis,eastern hemlock,Plantae,66524,392,Unripe seed cones,2016,4,21,112,2457500,4,2016,4,21,112,2457500,5
+17311,40.859993,-73.877342,16,NY,56,Tsuga,canadensis,eastern hemlock,Plantae,66524,392,Unripe seed cones,2016,5,26,147,2457535,6,2016,5,26,147,2457535,12
+17311,40.859993,-73.877342,16,NY,56,Tsuga,canadensis,eastern hemlock,Plantae,66524,392,Unripe seed cones,2016,8,2,215,2457603,4,2016,8,2,215,2457603,16
+17311,40.859993,-73.877342,16,NY,56,Tsuga,canadensis,eastern hemlock,Plantae,66524,392,Unripe seed cones,2016,9,6,250,2457638,7,2016,9,6,250,2457638,7
+17311,40.859993,-73.877342,16,NY,56,Tsuga,canadensis,eastern hemlock,Plantae,66524,392,Unripe seed cones,2016,9,28,272,2457660,7,2016,9,28,272,2457660,13
+17311,40.859993,-73.877342,16,NY,56,Tsuga,canadensis,eastern hemlock,Plantae,66527,392,Unripe seed cones,2016,3,26,86,2457474,2,2016,3,26,86,2457474,15
+17311,40.859993,-73.877342,16,NY,56,Tsuga,canadensis,eastern hemlock,Plantae,66524,393,Ripe seed cones,2016,3,26,86,2457474,2,2016,3,26,86,2457474,15
+17311,40.859993,-73.877342,16,NY,56,Tsuga,canadensis,eastern hemlock,Plantae,66524,393,Ripe seed cones,2016,4,21,112,2457500,4,2016,7,13,195,2457583,13
+17311,40.859993,-73.877342,16,NY,56,Tsuga,canadensis,eastern hemlock,Plantae,66524,393,Ripe seed cones,2016,8,2,215,2457603,7,2016,8,2,215,2457603,16
+17311,40.859993,-73.877342,16,NY,56,Tsuga,canadensis,eastern hemlock,Plantae,66524,393,Ripe seed cones,2016,8,30,243,2457631,5,2016,9,13,257,2457645,3
+17311,40.859993,-73.877342,16,NY,56,Tsuga,canadensis,eastern hemlock,Plantae,66524,393,Ripe seed cones,2016,9,28,272,2457660,7,2016,11,10,315,2457703,-9999
+17311,40.859993,-73.877342,16,NY,56,Tsuga,canadensis,eastern hemlock,Plantae,66527,393,Ripe seed cones,2016,3,26,86,2457474,2,2016,3,26,86,2457474,15
+17311,40.859993,-73.877342,16,NY,56,Tsuga,canadensis,eastern hemlock,Plantae,66524,480,Breaking needle buds (conifers),2016,4,1,92,2457480,6,2016,4,8,99,2457487,2
+17311,40.859993,-73.877342,16,NY,56,Tsuga,canadensis,eastern hemlock,Plantae,66524,480,Breaking needle buds (conifers),2016,4,15,106,2457494,2,2016,4,15,106,2457494,2
+17311,40.859993,-73.877342,16,NY,56,Tsuga,canadensis,eastern hemlock,Plantae,66524,480,Breaking needle buds (conifers),2016,4,29,120,2457508,3,2016,4,29,120,2457508,6
+17311,40.859993,-73.877342,16,NY,56,Tsuga,canadensis,eastern hemlock,Plantae,66524,480,Breaking needle buds (conifers),2016,5,6,127,2457515,1,2016,5,6,127,2457515,4
+17311,40.859993,-73.877342,16,NY,56,Tsuga,canadensis,eastern hemlock,Plantae,66524,480,Breaking needle buds (conifers),2016,5,13,134,2457522,3,2016,5,20,141,2457529,6
+17311,40.859993,-73.877342,16,NY,56,Tsuga,canadensis,eastern hemlock,Plantae,66524,480,Breaking needle buds (conifers),2016,6,10,162,2457550,3,2016,6,10,162,2457550,6
+17311,40.859993,-73.877342,16,NY,56,Tsuga,canadensis,eastern hemlock,Plantae,66524,480,Breaking needle buds (conifers),2016,6,30,182,2457570,7,2016,6,30,182,2457570,1
+17311,40.859993,-73.877342,16,NY,56,Tsuga,canadensis,eastern hemlock,Plantae,66527,480,Breaking needle buds (conifers),2016,4,1,92,2457480,6,2016,4,8,99,2457487,2
+17311,40.859993,-73.877342,16,NY,56,Tsuga,canadensis,eastern hemlock,Plantae,66527,480,Breaking needle buds (conifers),2016,4,15,106,2457494,2,2016,4,15,106,2457494,2
+17311,40.859993,-73.877342,16,NY,56,Tsuga,canadensis,eastern hemlock,Plantae,66527,480,Breaking needle buds (conifers),2016,4,29,120,2457508,3,2016,4,29,120,2457508,6
+17311,40.859993,-73.877342,16,NY,56,Tsuga,canadensis,eastern hemlock,Plantae,66527,480,Breaking needle buds (conifers),2016,5,6,127,2457515,1,2016,5,6,127,2457515,4
+17311,40.859993,-73.877342,16,NY,56,Tsuga,canadensis,eastern hemlock,Plantae,66527,480,Breaking needle buds (conifers),2016,5,13,134,2457522,3,2016,5,20,141,2457529,6
+17311,40.859993,-73.877342,16,NY,56,Tsuga,canadensis,eastern hemlock,Plantae,66527,480,Breaking needle buds (conifers),2016,6,10,162,2457550,15,2016,6,30,182,2457570,-9999
+17311,40.859993,-73.877342,16,NY,56,Tsuga,canadensis,eastern hemlock,Plantae,66524,485,Young needles (conifers),2016,4,29,120,2457508,3,2016,4,29,120,2457508,6
+17311,40.859993,-73.877342,16,NY,56,Tsuga,canadensis,eastern hemlock,Plantae,66524,485,Young needles (conifers),2016,5,20,141,2457529,7,2016,5,20,141,2457529,6
+17311,40.859993,-73.877342,16,NY,56,Tsuga,canadensis,eastern hemlock,Plantae,66524,485,Young needles (conifers),2016,5,27,148,2457536,1,2016,5,27,148,2457536,7
+17311,40.859993,-73.877342,16,NY,56,Tsuga,canadensis,eastern hemlock,Plantae,66524,485,Young needles (conifers),2016,6,10,162,2457550,3,2016,7,19,201,2457589,7
+17311,40.859993,-73.877342,16,NY,56,Tsuga,canadensis,eastern hemlock,Plantae,66524,485,Young needles (conifers),2016,7,29,211,2457599,3,2016,7,29,211,2457599,4
+17311,40.859993,-73.877342,16,NY,56,Tsuga,canadensis,eastern hemlock,Plantae,66524,485,Young needles (conifers),2016,8,12,225,2457613,10,2016,8,12,225,2457613,6
+17311,40.859993,-73.877342,16,NY,56,Tsuga,canadensis,eastern hemlock,Plantae,66524,485,Young needles (conifers),2016,8,25,238,2457626,7,2016,8,25,238,2457626,5
+17311,40.859993,-73.877342,16,NY,56,Tsuga,canadensis,eastern hemlock,Plantae,66524,485,Young needles (conifers),2016,9,8,252,2457640,2,2016,9,8,252,2457640,5
+17311,40.859993,-73.877342,16,NY,56,Tsuga,canadensis,eastern hemlock,Plantae,66524,485,Young needles (conifers),2016,9,16,260,2457648,3,2016,9,21,265,2457653,7
+17311,40.859993,-73.877342,16,NY,56,Tsuga,canadensis,eastern hemlock,Plantae,66527,485,Young needles (conifers),2016,4,10,101,2457489,15,2016,4,10,101,2457489,3
+17311,40.859993,-73.877342,16,NY,56,Tsuga,canadensis,eastern hemlock,Plantae,66527,485,Young needles (conifers),2016,4,29,120,2457508,3,2016,4,29,120,2457508,6
+17311,40.859993,-73.877342,16,NY,56,Tsuga,canadensis,eastern hemlock,Plantae,66527,485,Young needles (conifers),2016,5,20,141,2457529,7,2016,5,20,141,2457529,6
+17311,40.859993,-73.877342,16,NY,56,Tsuga,canadensis,eastern hemlock,Plantae,66527,485,Young needles (conifers),2016,5,27,148,2457536,1,2016,5,27,148,2457536,7
+17311,40.859993,-73.877342,16,NY,56,Tsuga,canadensis,eastern hemlock,Plantae,66527,485,Young needles (conifers),2016,6,10,162,2457550,7,2016,9,21,265,2457653,-9999
+17311,40.859993,-73.877342,16,NY,56,Tsuga,canadensis,eastern hemlock,Plantae,66524,490,Pollen cones (conifers),2016,3,19,79,2457467,-9999,2016,3,19,79,2457467,5
+17311,40.859993,-73.877342,16,NY,56,Tsuga,canadensis,eastern hemlock,Plantae,66524,490,Pollen cones (conifers),2016,3,26,86,2457474,2,2016,4,10,101,2457489,3
+17311,40.859993,-73.877342,16,NY,56,Tsuga,canadensis,eastern hemlock,Plantae,66524,490,Pollen cones (conifers),2016,4,17,108,2457496,4,2016,4,17,108,2457496,4
+17311,40.859993,-73.877342,16,NY,56,Tsuga,canadensis,eastern hemlock,Plantae,66524,490,Pollen cones (conifers),2016,6,3,155,2457543,7,2016,6,3,155,2457543,4
+17311,40.859993,-73.877342,16,NY,56,Tsuga,canadensis,eastern hemlock,Plantae,66524,490,Pollen cones (conifers),2016,6,10,162,2457550,3,2016,6,10,162,2457550,6
+17311,40.859993,-73.877342,16,NY,56,Tsuga,canadensis,eastern hemlock,Plantae,66524,490,Pollen cones (conifers),2016,7,19,201,2457589,6,2016,7,19,201,2457589,7
+17311,40.859993,-73.877342,16,NY,56,Tsuga,canadensis,eastern hemlock,Plantae,66524,490,Pollen cones (conifers),2016,9,16,260,2457648,3,2016,9,16,260,2457648,12
+17311,40.859993,-73.877342,16,NY,56,Tsuga,canadensis,eastern hemlock,Plantae,66527,490,Pollen cones (conifers),2016,3,19,79,2457467,8,2016,3,19,79,2457467,5
+17311,40.859993,-73.877342,16,NY,56,Tsuga,canadensis,eastern hemlock,Plantae,66527,490,Pollen cones (conifers),2016,3,26,86,2457474,2,2016,4,10,101,2457489,3
+17311,40.859993,-73.877342,16,NY,56,Tsuga,canadensis,eastern hemlock,Plantae,66527,490,Pollen cones (conifers),2016,4,17,108,2457496,4,2016,4,17,108,2457496,9
+17311,40.859993,-73.877342,16,NY,56,Tsuga,canadensis,eastern hemlock,Plantae,66527,490,Pollen cones (conifers),2016,6,3,155,2457543,7,2016,6,10,162,2457550,7
+17311,40.859993,-73.877342,16,NY,56,Tsuga,canadensis,eastern hemlock,Plantae,66527,490,Pollen cones (conifers),2016,9,16,260,2457648,22,2016,9,16,260,2457648,-9999
+17311,40.859993,-73.877342,16,NY,56,Tsuga,canadensis,eastern hemlock,Plantae,66524,495,Open pollen cones (conifers),2016,3,19,79,2457467,-9999,2016,3,19,79,2457467,5
+18535,40.861065,-73.879005,28,NY,56,Tsuga,canadensis,eastern hemlock,Plantae,73377,392,Unripe seed cones,2016,4,24,115,2457503,14,2016,4,30,121,2457509,-9999
+18535,40.861065,-73.879005,28,NY,56,Tsuga,canadensis,eastern hemlock,Plantae,73377,480,Breaking needle buds (conifers),2016,3,25,85,2457473,12,2016,3,25,85,2457473,-9999
+20702,44.284657,-73.982742,569,NY,56,Tsuga,canadensis,eastern hemlock,Plantae,88646,495,Open pollen cones (conifers),2016,9,12,256,2457644,109,2016,9,12,256,2457644,4
+21282,42.423668,-76.331558,432,NY,56,Tsuga,canadensis,eastern hemlock,Plantae,92251,392,Unripe seed cones,2016,6,21,173,2457561,-9999,2016,6,21,173,2457561,-9999
+21282,42.423668,-76.331558,432,NY,56,Tsuga,canadensis,eastern hemlock,Plantae,92251,485,Young needles (conifers),2016,6,21,173,2457561,-9999,2016,6,21,173,2457561,-9999
+22342,36.138634,-86.829895,158,TN,56,Tsuga,canadensis,eastern hemlock,Plantae,99219,393,Ripe seed cones,2016,2,6,37,2457425,-9999,2016,2,14,45,2457433,-9999
+22342,36.138634,-86.829895,158,TN,56,Tsuga,canadensis,eastern hemlock,Plantae,99220,393,Ripe seed cones,2016,2,6,37,2457425,-9999,2016,2,14,45,2457433,-9999
+23626,36.031437,-78.897865,112,NC,56,Tsuga,canadensis,eastern hemlock,Plantae,110645,392,Unripe seed cones,2016,6,15,167,2457555,-9999,2016,6,15,167,2457555,-9999
+23626,36.031437,-78.897865,112,NC,56,Tsuga,canadensis,eastern hemlock,Plantae,110645,485,Young needles (conifers),2016,6,15,167,2457555,-9999,2016,6,15,167,2457555,-9999
+23813,42.270908,-73.59346,212,NY,56,Tsuga,canadensis,eastern hemlock,Plantae,112465,480,Breaking needle buds (conifers),2016,5,23,144,2457532,8,2016,5,23,144,2457532,9
+23813,42.270908,-73.59346,212,NY,56,Tsuga,canadensis,eastern hemlock,Plantae,112466,480,Breaking needle buds (conifers),2016,5,23,144,2457532,8,2016,5,23,144,2457532,9
+23813,42.270908,-73.59346,212,NY,56,Tsuga,canadensis,eastern hemlock,Plantae,112465,485,Young needles (conifers),2016,5,23,144,2457532,8,2016,8,2,215,2457603,6
+23813,42.270908,-73.59346,212,NY,56,Tsuga,canadensis,eastern hemlock,Plantae,112466,485,Young needles (conifers),2016,5,23,144,2457532,8,2016,6,20,172,2457560,-9999
+23813,42.270908,-73.59346,212,NY,56,Tsuga,canadensis,eastern hemlock,Plantae,112465,490,Pollen cones (conifers),2016,5,5,126,2457514,13,2016,5,15,136,2457524,8
+23813,42.270908,-73.59346,212,NY,56,Tsuga,canadensis,eastern hemlock,Plantae,112465,490,Pollen cones (conifers),2016,7,4,186,2457574,7,2016,7,4,186,2457574,14
+23813,42.270908,-73.59346,212,NY,56,Tsuga,canadensis,eastern hemlock,Plantae,112465,490,Pollen cones (conifers),2016,8,22,235,2457623,14,2016,10,15,289,2457677,8
+23813,42.270908,-73.59346,212,NY,56,Tsuga,canadensis,eastern hemlock,Plantae,112466,490,Pollen cones (conifers),2016,5,5,126,2457514,13,2016,5,15,136,2457524,8
+23813,42.270908,-73.59346,212,NY,56,Tsuga,canadensis,eastern hemlock,Plantae,112465,495,Open pollen cones (conifers),2016,5,15,136,2457524,10,2016,5,15,136,2457524,8
+23813,42.270908,-73.59346,212,NY,56,Tsuga,canadensis,eastern hemlock,Plantae,112465,495,Open pollen cones (conifers),2016,9,25,269,2457657,9,2016,10,11,285,2457673,4
+23813,42.270908,-73.59346,212,NY,56,Tsuga,canadensis,eastern hemlock,Plantae,112465,503,Pollen release (conifers),2016,5,15,136,2457524,10,2016,5,15,136,2457524,8
+24015,42.112175,-72.025589,217,MA,56,Tsuga,canadensis,eastern hemlock,Plantae,113382,392,Unripe seed cones,2016,7,25,207,2457595,1,2016,7,25,207,2457595,-9999
+24015,42.112175,-72.025589,217,MA,56,Tsuga,canadensis,eastern hemlock,Plantae,113382,480,Breaking needle buds (conifers),2016,7,25,207,2457595,1,2016,7,25,207,2457595,-9999
+24015,42.112175,-72.025589,217,MA,56,Tsuga,canadensis,eastern hemlock,Plantae,113382,485,Young needles (conifers),2016,7,22,204,2457592,-9999,2016,7,25,207,2457595,-9999
+24015,42.112175,-72.025589,217,MA,56,Tsuga,canadensis,eastern hemlock,Plantae,113382,490,Pollen cones (conifers),2016,7,25,207,2457595,1,2016,7,25,207,2457595,-9999
+24016,42.156445,-71.993744,242,MA,56,Tsuga,canadensis,eastern hemlock,Plantae,113389,485,Young needles (conifers),2016,7,23,205,2457593,-9999,2016,7,26,208,2457596,1
+24016,42.156445,-71.993744,242,MA,56,Tsuga,canadensis,eastern hemlock,Plantae,113389,485,Young needles (conifers),2016,7,28,210,2457598,1,2016,8,1,214,2457602,-9999
+24718,49.354507,-124.412689,52,BC,57,Tsuga,heterophylla,western hemlock,Plantae,117189,480,Breaking needle buds (conifers),2016,5,26,147,2457535,-9999,2016,5,26,147,2457535,42
+24718,49.354507,-124.412689,52,BC,57,Tsuga,heterophylla,western hemlock,Plantae,117189,485,Young needles (conifers),2016,5,26,147,2457535,-9999,2016,7,7,189,2457577,82
+24784,44.295704,-124.108589,23,OR,57,Tsuga,heterophylla,western hemlock,Plantae,117492,392,Unripe seed cones,2016,11,6,311,2457699,-9999,2016,11,6,311,2457699,-9999
+24784,44.295704,-124.108589,23,OR,57,Tsuga,heterophylla,western hemlock,Plantae,117492,485,Young needles (conifers),2016,11,6,311,2457699,-9999,2016,11,6,311,2457699,-9999
+24784,44.295704,-124.108589,23,OR,57,Tsuga,heterophylla,western hemlock,Plantae,117492,490,Pollen cones (conifers),2016,11,6,311,2457699,-9999,2016,11,6,311,2457699,-9999
+2119,40.862221,-73.875191,26,NY,56,Tsuga,canadensis,eastern hemlock,Plantae,66508,392,Unripe seed cones,2017,5,17,137,2457891,1,2017,5,17,137,2457891,6
+2119,40.862221,-73.875191,26,NY,56,Tsuga,canadensis,eastern hemlock,Plantae,66508,393,Ripe seed cones,2017,4,11,101,2457855,1,2017,4,11,101,2457855,4
+2119,40.862221,-73.875191,26,NY,56,Tsuga,canadensis,eastern hemlock,Plantae,66508,393,Ripe seed cones,2017,4,22,112,2457866,1,2017,4,22,112,2457866,2
+2119,40.862221,-73.875191,26,NY,56,Tsuga,canadensis,eastern hemlock,Plantae,66508,393,Ripe seed cones,2017,6,30,181,2457935,7,2017,6,30,181,2457935,26
+2119,40.862221,-73.875191,26,NY,56,Tsuga,canadensis,eastern hemlock,Plantae,66508,393,Ripe seed cones,2017,8,1,213,2457967,6,2017,8,1,213,2457967,1
+2119,40.862221,-73.875191,26,NY,56,Tsuga,canadensis,eastern hemlock,Plantae,66508,393,Ripe seed cones,2017,8,11,223,2457977,2,2017,8,11,223,2457977,3
+2119,40.862221,-73.875191,26,NY,56,Tsuga,canadensis,eastern hemlock,Plantae,66508,393,Ripe seed cones,2017,8,29,241,2457995,6,2017,8,29,241,2457995,1
+2119,40.862221,-73.875191,26,NY,56,Tsuga,canadensis,eastern hemlock,Plantae,66508,393,Ripe seed cones,2017,10,6,279,2458033,7,2017,10,6,279,2458033,1
+2119,40.862221,-73.875191,26,NY,56,Tsuga,canadensis,eastern hemlock,Plantae,66508,393,Ripe seed cones,2017,11,2,306,2458060,6,2017,11,2,306,2458060,5
+2119,40.862221,-73.875191,26,NY,56,Tsuga,canadensis,eastern hemlock,Plantae,66508,485,Young needles (conifers),2017,5,17,137,2457891,1,2017,5,17,137,2457891,6
+2119,40.862221,-73.875191,26,NY,56,Tsuga,canadensis,eastern hemlock,Plantae,66508,485,Young needles (conifers),2017,5,27,147,2457901,4,2017,5,27,147,2457901,3
+2119,40.862221,-73.875191,26,NY,56,Tsuga,canadensis,eastern hemlock,Plantae,66508,485,Young needles (conifers),2017,6,9,160,2457914,3,2017,6,9,160,2457914,4
+2119,40.862221,-73.875191,26,NY,56,Tsuga,canadensis,eastern hemlock,Plantae,66508,485,Young needles (conifers),2017,6,15,166,2457920,2,2017,6,27,178,2457932,3
+2119,40.862221,-73.875191,26,NY,56,Tsuga,canadensis,eastern hemlock,Plantae,66508,485,Young needles (conifers),2017,8,1,213,2457967,6,2017,8,1,213,2457967,1
+2119,40.862221,-73.875191,26,NY,56,Tsuga,canadensis,eastern hemlock,Plantae,66508,485,Young needles (conifers),2017,9,5,248,2458002,6,2017,9,5,248,2458002,3
+17311,40.859993,-73.877342,16,NY,56,Tsuga,canadensis,eastern hemlock,Plantae,66524,392,Unripe seed cones,2017,4,21,111,2457865,6,2017,4,28,118,2457872,11
+17311,40.859993,-73.877342,16,NY,56,Tsuga,canadensis,eastern hemlock,Plantae,66524,392,Unripe seed cones,2017,6,30,181,2457935,7,2017,6,30,181,2457935,60
+17311,40.859993,-73.877342,16,NY,56,Tsuga,canadensis,eastern hemlock,Plantae,66524,392,Unripe seed cones,2017,9,22,265,2458019,14,2017,9,22,265,2458019,33
+17311,40.859993,-73.877342,16,NY,56,Tsuga,canadensis,eastern hemlock,Plantae,66524,393,Ripe seed cones,2017,6,9,160,2457914,13,2017,9,22,265,2458019,33
+17311,40.859993,-73.877342,16,NY,56,Tsuga,canadensis,eastern hemlock,Plantae,66524,393,Ripe seed cones,2017,11,2,306,2458060,8,2017,11,2,306,2458060,-9999
+17311,40.859993,-73.877342,16,NY,56,Tsuga,canadensis,eastern hemlock,Plantae,66524,480,Breaking needle buds (conifers),2017,4,15,105,2457859,4,2017,4,15,105,2457859,13
+17311,40.859993,-73.877342,16,NY,56,Tsuga,canadensis,eastern hemlock,Plantae,66524,480,Breaking needle buds (conifers),2017,5,9,129,2457883,11,2017,5,17,137,2457891,10
+17311,40.859993,-73.877342,16,NY,56,Tsuga,canadensis,eastern hemlock,Plantae,66524,485,Young needles (conifers),2017,5,17,137,2457891,8,2017,5,27,147,2457901,13
+17311,40.859993,-73.877342,16,NY,56,Tsuga,canadensis,eastern hemlock,Plantae,66524,485,Young needles (conifers),2017,6,23,174,2457928,14,2017,6,23,174,2457928,7
+18132,42.515305,-74.140076,417,NY,56,Tsuga,canadensis,eastern hemlock,Plantae,72333,392,Unripe seed cones,2017,7,30,211,2457965,8,2017,7,30,211,2457965,7
+18132,42.515305,-74.140076,417,NY,56,Tsuga,canadensis,eastern hemlock,Plantae,72333,392,Unripe seed cones,2017,8,27,239,2457993,7,2017,8,27,239,2457993,8
+18132,42.515305,-74.140076,417,NY,56,Tsuga,canadensis,eastern hemlock,Plantae,72335,392,Unripe seed cones,2017,7,1,182,2457936,-9999,2017,8,6,218,2457972,14
+18132,42.515305,-74.140076,417,NY,56,Tsuga,canadensis,eastern hemlock,Plantae,72335,392,Unripe seed cones,2017,8,27,239,2457993,7,2017,9,4,247,2458001,13
+18132,42.515305,-74.140076,417,NY,56,Tsuga,canadensis,eastern hemlock,Plantae,72335,392,Unripe seed cones,2017,9,19,262,2458016,2,2017,9,19,262,2458016,4
+18132,42.515305,-74.140076,417,NY,56,Tsuga,canadensis,eastern hemlock,Plantae,72335,392,Unripe seed cones,2017,10,7,280,2458034,5,2017,10,7,280,2458034,1
+18132,42.515305,-74.140076,417,NY,56,Tsuga,canadensis,eastern hemlock,Plantae,72360,392,Unripe seed cones,2017,8,6,218,2457972,7,2017,9,19,262,2458016,4
+18132,42.515305,-74.140076,417,NY,56,Tsuga,canadensis,eastern hemlock,Plantae,72360,392,Unripe seed cones,2017,10,8,281,2458035,6,2017,10,8,281,2458035,15
+18132,42.515305,-74.140076,417,NY,56,Tsuga,canadensis,eastern hemlock,Plantae,72333,393,Ripe seed cones,2017,10,28,301,2458055,3,2017,10,28,301,2458055,3
+18132,42.515305,-74.140076,417,NY,56,Tsuga,canadensis,eastern hemlock,Plantae,72335,393,Ripe seed cones,2017,9,23,266,2458020,4,2017,12,16,350,2458104,-9999
+18132,42.515305,-74.140076,417,NY,56,Tsuga,canadensis,eastern hemlock,Plantae,72360,393,Ripe seed cones,2017,9,23,266,2458020,4,2017,12,16,350,2458104,-9999
+18132,42.515305,-74.140076,417,NY,56,Tsuga,canadensis,eastern hemlock,Plantae,72333,485,Young needles (conifers),2017,7,1,182,2457936,-9999,2017,7,15,196,2457950,7
+18132,42.515305,-74.140076,417,NY,56,Tsuga,canadensis,eastern hemlock,Plantae,72333,485,Young needles (conifers),2017,11,11,315,2458069,7,2017,11,11,315,2458069,1
+18132,42.515305,-74.140076,417,NY,56,Tsuga,canadensis,eastern hemlock,Plantae,72335,485,Young needles (conifers),2017,7,1,182,2457936,-9999,2017,7,15,196,2457950,7
+18132,42.515305,-74.140076,417,NY,56,Tsuga,canadensis,eastern hemlock,Plantae,72335,485,Young needles (conifers),2017,11,11,315,2458069,7,2017,11,11,315,2458069,1
+18132,42.515305,-74.140076,417,NY,56,Tsuga,canadensis,eastern hemlock,Plantae,72360,485,Young needles (conifers),2017,7,15,196,2457950,14,2017,7,15,196,2457950,7
+18132,42.515305,-74.140076,417,NY,56,Tsuga,canadensis,eastern hemlock,Plantae,72333,491,Recent cone or seed drop,2017,10,7,280,2458034,5,2017,10,7,280,2458034,1
+18132,42.515305,-74.140076,417,NY,56,Tsuga,canadensis,eastern hemlock,Plantae,72335,491,Recent cone or seed drop,2017,10,2,275,2458029,9,2017,10,7,280,2458034,1
+18132,42.515305,-74.140076,417,NY,56,Tsuga,canadensis,eastern hemlock,Plantae,72335,491,Recent cone or seed drop,2017,11,12,316,2458070,1,2017,12,6,340,2458094,8
+18132,42.515305,-74.140076,417,NY,56,Tsuga,canadensis,eastern hemlock,Plantae,72335,491,Recent cone or seed drop,2017,12,16,350,2458104,2,2017,12,16,350,2458104,-9999
+18132,42.515305,-74.140076,417,NY,56,Tsuga,canadensis,eastern hemlock,Plantae,72360,491,Recent cone or seed drop,2017,11,12,316,2458070,1,2017,12,16,350,2458104,-9999
+20702,44.284657,-73.982742,569,NY,56,Tsuga,canadensis,eastern hemlock,Plantae,88646,392,Unripe seed cones,2017,9,22,265,2458019,4,2017,9,22,265,2458019,5
+20702,44.284657,-73.982742,569,NY,56,Tsuga,canadensis,eastern hemlock,Plantae,88646,393,Ripe seed cones,2017,9,22,265,2458019,4,2017,9,22,265,2458019,5
+20702,44.284657,-73.982742,569,NY,56,Tsuga,canadensis,eastern hemlock,Plantae,88646,490,Pollen cones (conifers),2017,9,22,265,2458019,4,2017,9,22,265,2458019,5
+23813,42.270908,-73.59346,212,NY,56,Tsuga,canadensis,eastern hemlock,Plantae,112465,392,Unripe seed cones,2017,5,21,141,2457895,14,2017,12,1,335,2458089,-9999
+23813,42.270908,-73.59346,212,NY,56,Tsuga,canadensis,eastern hemlock,Plantae,112465,393,Ripe seed cones,2017,7,25,206,2457960,8,2017,12,1,335,2458089,-9999
+23813,42.270908,-73.59346,212,NY,56,Tsuga,canadensis,eastern hemlock,Plantae,112465,480,Breaking needle buds (conifers),2017,5,7,127,2457881,10,2017,5,7,127,2457881,5
+23813,42.270908,-73.59346,212,NY,56,Tsuga,canadensis,eastern hemlock,Plantae,112465,480,Breaking needle buds (conifers),2017,5,27,147,2457901,6,2017,5,27,147,2457901,9
+23813,42.270908,-73.59346,212,NY,56,Tsuga,canadensis,eastern hemlock,Plantae,112465,485,Young needles (conifers),2017,5,7,127,2457881,10,2017,5,7,127,2457881,5
+23813,42.270908,-73.59346,212,NY,56,Tsuga,canadensis,eastern hemlock,Plantae,112465,485,Young needles (conifers),2017,5,27,147,2457901,6,2017,9,6,249,2458003,8
+23813,42.270908,-73.59346,212,NY,56,Tsuga,canadensis,eastern hemlock,Plantae,112465,490,Pollen cones (conifers),2017,4,19,109,2457863,11,2017,5,21,141,2457895,6
+23813,42.270908,-73.59346,212,NY,56,Tsuga,canadensis,eastern hemlock,Plantae,112465,491,Recent cone or seed drop,2017,9,28,271,2458025,7,2017,10,6,279,2458033,14
+23813,42.270908,-73.59346,212,NY,56,Tsuga,canadensis,eastern hemlock,Plantae,112465,491,Recent cone or seed drop,2017,10,27,300,2458054,7,2017,12,1,335,2458089,-9999
+23813,42.270908,-73.59346,212,NY,56,Tsuga,canadensis,eastern hemlock,Plantae,112465,503,Pollen release (conifers),2017,5,7,127,2457881,10,2017,5,7,127,2457881,5
+24718,49.354507,-124.412689,52,BC,57,Tsuga,heterophylla,western hemlock,Plantae,117189,480,Breaking needle buds (conifers),2017,5,31,151,2457905,21,2017,5,31,151,2457905,16
+24718,49.354507,-124.412689,52,BC,57,Tsuga,heterophylla,western hemlock,Plantae,129484,480,Breaking needle buds (conifers),2017,5,31,151,2457905,21,2017,6,7,158,2457912,9
+24718,49.354507,-124.412689,52,BC,57,Tsuga,heterophylla,western hemlock,Plantae,117189,485,Young needles (conifers),2017,6,7,158,2457912,7,2017,6,16,167,2457921,21
+24718,49.354507,-124.412689,52,BC,57,Tsuga,heterophylla,western hemlock,Plantae,117189,485,Young needles (conifers),2017,9,8,251,2458005,8,2017,9,8,251,2458005,7
+24718,49.354507,-124.412689,52,BC,57,Tsuga,heterophylla,western hemlock,Plantae,129484,485,Young needles (conifers),2017,5,31,151,2457905,21,2017,7,11,192,2457946,16
+24718,49.354507,-124.412689,52,BC,57,Tsuga,heterophylla,western hemlock,Plantae,129484,485,Young needles (conifers),2017,8,9,221,2457975,7,2017,8,9,221,2457975,8
+24718,49.354507,-124.412689,52,BC,57,Tsuga,heterophylla,western hemlock,Plantae,129484,485,Young needles (conifers),2017,9,8,251,2458005,8,2017,9,8,251,2458005,7
+25884,41.730396,-74.234406,508,NY,56,Tsuga,canadensis,eastern hemlock,Plantae,130704,480,Breaking needle buds (conifers),2017,5,21,141,2457895,27,2017,5,21,141,2457895,25
+25884,41.730396,-74.234406,508,NY,56,Tsuga,canadensis,eastern hemlock,Plantae,130704,480,Breaking needle buds (conifers),2017,7,23,204,2457958,28,2017,7,23,204,2457958,36
+25884,41.730396,-74.234406,508,NY,56,Tsuga,canadensis,eastern hemlock,Plantae,130711,480,Breaking needle buds (conifers),2017,5,21,141,2457895,28,2017,5,21,141,2457895,25
+25884,41.730396,-74.234406,508,NY,56,Tsuga,canadensis,eastern hemlock,Plantae,130711,480,Breaking needle buds (conifers),2017,7,23,204,2457958,28,2017,7,23,204,2457958,36
+25884,41.730396,-74.234406,508,NY,56,Tsuga,canadensis,eastern hemlock,Plantae,130729,480,Breaking needle buds (conifers),2017,5,21,141,2457895,27,2017,5,21,141,2457895,25
+25884,41.730396,-74.234406,508,NY,56,Tsuga,canadensis,eastern hemlock,Plantae,130704,485,Young needles (conifers),2017,6,15,166,2457920,25,2017,7,23,204,2457958,36
+25884,41.730396,-74.234406,508,NY,56,Tsuga,canadensis,eastern hemlock,Plantae,130711,485,Young needles (conifers),2017,6,15,166,2457920,25,2017,7,23,204,2457958,36
+25884,41.730396,-74.234406,508,NY,56,Tsuga,canadensis,eastern hemlock,Plantae,130727,485,Young needles (conifers),2017,6,15,166,2457920,52,2017,6,15,166,2457920,38
+25884,41.730396,-74.234406,508,NY,56,Tsuga,canadensis,eastern hemlock,Plantae,130729,485,Young needles (conifers),2017,6,15,166,2457920,25,2017,6,25,176,2457930,28
+25891,44.317505,-74.120537,476,NY,56,Tsuga,canadensis,eastern hemlock,Plantae,127487,392,Unripe seed cones,2017,9,8,251,2458005,133,2017,9,8,251,2458005,5
+25891,44.317505,-74.120537,476,NY,56,Tsuga,canadensis,eastern hemlock,Plantae,127487,392,Unripe seed cones,2017,10,16,289,2458043,4,2017,10,16,289,2458043,-9999
+25891,44.317505,-74.120537,476,NY,56,Tsuga,canadensis,eastern hemlock,Plantae,134574,392,Unripe seed cones,2017,10,16,289,2458043,4,2017,10,16,289,2458043,-9999
+25891,44.317505,-74.120537,476,NY,56,Tsuga,canadensis,eastern hemlock,Plantae,127487,393,Ripe seed cones,2017,10,16,289,2458043,4,2017,10,16,289,2458043,-9999
+25891,44.317505,-74.120537,476,NY,56,Tsuga,canadensis,eastern hemlock,Plantae,134574,393,Ripe seed cones,2017,10,16,289,2458043,4,2017,10,16,289,2458043,-9999
+25891,44.317505,-74.120537,476,NY,56,Tsuga,canadensis,eastern hemlock,Plantae,127487,490,Pollen cones (conifers),2017,9,13,256,2458010,5,2017,10,3,276,2458030,7
+25891,44.317505,-74.120537,476,NY,56,Tsuga,canadensis,eastern hemlock,Plantae,127487,490,Pollen cones (conifers),2017,10,16,289,2458043,4,2017,10,16,289,2458043,-9999
+25891,44.317505,-74.120537,476,NY,56,Tsuga,canadensis,eastern hemlock,Plantae,134574,490,Pollen cones (conifers),2017,9,13,256,2458010,5,2017,10,3,276,2458030,7
+25891,44.317505,-74.120537,476,NY,56,Tsuga,canadensis,eastern hemlock,Plantae,134574,490,Pollen cones (conifers),2017,10,16,289,2458043,4,2017,10,16,289,2458043,-9999
+25891,44.317505,-74.120537,476,NY,56,Tsuga,canadensis,eastern hemlock,Plantae,127487,491,Recent cone or seed drop,2017,9,8,251,2458005,133,2017,9,8,251,2458005,5
+25891,44.317505,-74.120537,476,NY,56,Tsuga,canadensis,eastern hemlock,Plantae,127487,491,Recent cone or seed drop,2017,10,16,289,2458043,4,2017,10,16,289,2458043,-9999
+25891,44.317505,-74.120537,476,NY,56,Tsuga,canadensis,eastern hemlock,Plantae,134574,491,Recent cone or seed drop,2017,10,16,289,2458043,4,2017,10,16,289,2458043,-9999
+25891,44.317505,-74.120537,476,NY,56,Tsuga,canadensis,eastern hemlock,Plantae,127487,495,Open pollen cones (conifers),2017,10,16,289,2458043,4,2017,10,16,289,2458043,-9999
+25891,44.317505,-74.120537,476,NY,56,Tsuga,canadensis,eastern hemlock,Plantae,134574,495,Open pollen cones (conifers),2017,10,16,289,2458043,4,2017,10,16,289,2458043,-9999
+26742,40.585384,-75.521538,109,PA,56,Tsuga,canadensis,eastern hemlock,Plantae,137992,392,Unripe seed cones,2017,5,17,137,2457891,-9999,2017,9,23,266,2458020,-9999
+26742,40.585384,-75.521538,109,PA,56,Tsuga,canadensis,eastern hemlock,Plantae,137993,392,Unripe seed cones,2017,5,17,137,2457891,-9999,2017,9,23,266,2458020,-9999
+26742,40.585384,-75.521538,109,PA,56,Tsuga,canadensis,eastern hemlock,Plantae,138015,392,Unripe seed cones,2017,5,17,137,2457891,-9999,2017,9,23,266,2458020,-9999
+26742,40.585384,-75.521538,109,PA,56,Tsuga,canadensis,eastern hemlock,Plantae,138021,392,Unripe seed cones,2017,5,17,137,2457891,-9999,2017,9,23,266,2458020,-9999
+26742,40.585384,-75.521538,109,PA,56,Tsuga,canadensis,eastern hemlock,Plantae,138023,392,Unripe seed cones,2017,5,17,137,2457891,-9999,2017,9,23,266,2458020,-9999
+26742,40.585384,-75.521538,109,PA,56,Tsuga,canadensis,eastern hemlock,Plantae,137992,393,Ripe seed cones,2017,5,17,137,2457891,-9999,2017,8,23,235,2457989,6
+26742,40.585384,-75.521538,109,PA,56,Tsuga,canadensis,eastern hemlock,Plantae,137992,393,Ripe seed cones,2017,9,1,244,2457998,3,2017,9,23,266,2458020,-9999
+26742,40.585384,-75.521538,109,PA,56,Tsuga,canadensis,eastern hemlock,Plantae,137993,393,Ripe seed cones,2017,5,17,137,2457891,-9999,2017,9,23,266,2458020,-9999
+26742,40.585384,-75.521538,109,PA,56,Tsuga,canadensis,eastern hemlock,Plantae,138015,393,Ripe seed cones,2017,5,17,137,2457891,-9999,2017,9,1,244,2457998,5
+26742,40.585384,-75.521538,109,PA,56,Tsuga,canadensis,eastern hemlock,Plantae,138015,393,Ripe seed cones,2017,9,12,255,2458009,6,2017,9,23,266,2458020,-9999
+26742,40.585384,-75.521538,109,PA,56,Tsuga,canadensis,eastern hemlock,Plantae,138021,393,Ripe seed cones,2017,5,17,137,2457891,-9999,2017,9,23,266,2458020,-9999
+26742,40.585384,-75.521538,109,PA,56,Tsuga,canadensis,eastern hemlock,Plantae,138023,393,Ripe seed cones,2017,5,17,137,2457891,-9999,2017,9,23,266,2458020,-9999
+26742,40.585384,-75.521538,109,PA,56,Tsuga,canadensis,eastern hemlock,Plantae,138021,480,Breaking needle buds (conifers),2017,5,17,137,2457891,-9999,2017,5,17,137,2457891,21
+26742,40.585384,-75.521538,109,PA,56,Tsuga,canadensis,eastern hemlock,Plantae,137992,485,Young needles (conifers),2017,5,17,137,2457891,-9999,2017,6,7,158,2457912,13
+26742,40.585384,-75.521538,109,PA,56,Tsuga,canadensis,eastern hemlock,Plantae,137993,485,Young needles (conifers),2017,5,17,137,2457891,-9999,2017,6,7,158,2457912,13
+26742,40.585384,-75.521538,109,PA,56,Tsuga,canadensis,eastern hemlock,Plantae,138015,485,Young needles (conifers),2017,5,17,137,2457891,-9999,2017,6,7,158,2457912,13
+26742,40.585384,-75.521538,109,PA,56,Tsuga,canadensis,eastern hemlock,Plantae,138021,485,Young needles (conifers),2017,5,17,137,2457891,-9999,2017,6,7,158,2457912,6
+26742,40.585384,-75.521538,109,PA,56,Tsuga,canadensis,eastern hemlock,Plantae,138023,485,Young needles (conifers),2017,5,17,137,2457891,-9999,2017,6,7,158,2457912,6
+26742,40.585384,-75.521538,109,PA,56,Tsuga,canadensis,eastern hemlock,Plantae,137992,490,Pollen cones (conifers),2017,5,17,137,2457891,-9999,2017,5,17,137,2457891,34
+26742,40.585384,-75.521538,109,PA,56,Tsuga,canadensis,eastern hemlock,Plantae,137993,490,Pollen cones (conifers),2017,5,17,137,2457891,-9999,2017,5,17,137,2457891,34
+26742,40.585384,-75.521538,109,PA,56,Tsuga,canadensis,eastern hemlock,Plantae,138015,490,Pollen cones (conifers),2017,5,17,137,2457891,-9999,2017,5,17,137,2457891,34
+27018,44.878384,-122.657654,412,OR,57,Tsuga,heterophylla,western hemlock,Plantae,137136,480,Breaking needle buds (conifers),2017,5,11,131,2457885,-9999,2017,5,11,131,2457885,-9999
+27018,44.878384,-122.657654,412,OR,57,Tsuga,heterophylla,western hemlock,Plantae,137136,485,Young needles (conifers),2017,5,11,131,2457885,-9999,2017,5,11,131,2457885,-9999
+27018,44.878384,-122.657654,412,OR,57,Tsuga,heterophylla,western hemlock,Plantae,137136,491,Recent cone or seed drop,2017,5,11,131,2457885,-9999,2017,5,11,131,2457885,-9999
+27018,44.878384,-122.657654,412,OR,57,Tsuga,heterophylla,western hemlock,Plantae,137136,495,Open pollen cones (conifers),2017,5,11,131,2457885,-9999,2017,5,11,131,2457885,-9999
+27129,45.332176,-121.709404,1824,OR,57,Tsuga,heterophylla,western hemlock,Plantae,138595,393,Ripe seed cones,2017,5,11,131,2457885,-9999,2017,5,11,131,2457885,-9999
+27129,45.332176,-121.709404,1824,OR,57,Tsuga,heterophylla,western hemlock,Plantae,138595,480,Breaking needle buds (conifers),2017,5,11,131,2457885,-9999,2017,5,11,131,2457885,-9999
+27129,45.332176,-121.709404,1824,OR,57,Tsuga,heterophylla,western hemlock,Plantae,138595,485,Young needles (conifers),2017,5,11,131,2457885,-9999,2017,5,11,131,2457885,-9999
+27430,42.033588,-71.921844,183,MA,56,Tsuga,canadensis,eastern hemlock,Plantae,142123,392,Unripe seed cones,2017,8,6,218,2457972,1,2017,8,7,219,2457973,-9999
+27430,42.033588,-71.921844,183,MA,56,Tsuga,canadensis,eastern hemlock,Plantae,142123,393,Ripe seed cones,2017,7,31,212,2457966,1,2017,8,1,213,2457967,1
+27430,42.033588,-71.921844,183,MA,56,Tsuga,canadensis,eastern hemlock,Plantae,142123,480,Breaking needle buds (conifers),2017,7,27,208,2457962,1,2017,8,8,220,2457974,-9999
+27430,42.033588,-71.921844,183,MA,56,Tsuga,canadensis,eastern hemlock,Plantae,142123,485,Young needles (conifers),2017,7,24,205,2457959,-9999,2017,8,8,220,2457974,-9999
+27430,42.033588,-71.921844,183,MA,56,Tsuga,canadensis,eastern hemlock,Plantae,142123,490,Pollen cones (conifers),2017,7,24,205,2457959,-9999,2017,8,8,220,2457974,-9999
+27430,42.033588,-71.921844,183,MA,56,Tsuga,canadensis,eastern hemlock,Plantae,142123,491,Recent cone or seed drop,2017,7,27,208,2457962,1,2017,8,1,213,2457967,1
+27430,42.033588,-71.921844,183,MA,56,Tsuga,canadensis,eastern hemlock,Plantae,142123,495,Open pollen cones (conifers),2017,7,31,212,2457966,1,2017,8,8,220,2457974,-9999
+27430,42.033588,-71.921844,183,MA,56,Tsuga,canadensis,eastern hemlock,Plantae,142123,503,Pollen release (conifers),2017,8,2,214,2457968,1,2017,8,8,220,2457974,-9999
+27511,44.3969,-68.464745,11,ME,56,Tsuga,canadensis,eastern hemlock,Plantae,142142,480,Breaking needle buds (conifers),2017,8,8,220,2457974,-9999,2017,8,23,235,2457989,-9999
+27818,40.733047,-74.665649,86,NJ,56,Tsuga,canadensis,eastern hemlock,Plantae,143844,392,Unripe seed cones,2017,9,13,256,2458010,-9999,2017,9,18,261,2458015,-9999
+27818,40.733047,-74.665649,86,NJ,56,Tsuga,canadensis,eastern hemlock,Plantae,143844,490,Pollen cones (conifers),2017,9,13,256,2458010,-9999,2017,9,18,261,2458015,-9999
+27818,40.733047,-74.665649,86,NJ,56,Tsuga,canadensis,eastern hemlock,Plantae,143844,491,Recent cone or seed drop,2017,9,13,256,2458010,-9999,2017,9,18,261,2458015,-9999
+28336,47.688366,-116.980659,820,ID,57,Tsuga,heterophylla,western hemlock,Plantae,147344,480,Breaking needle buds (conifers),2017,11,3,307,2458061,-9999,2017,11,4,308,2458062,-9999
+28336,47.688366,-116.980659,820,ID,57,Tsuga,heterophylla,western hemlock,Plantae,147344,485,Young needles (conifers),2017,11,3,307,2458061,-9999,2017,11,4,308,2458062,-9999
+28346,45.603481,-122.406433,80,WA,57,Tsuga,heterophylla,western hemlock,Plantae,147423,393,Ripe seed cones,2017,11,2,306,2458060,-9999,2017,11,2,306,2458060,-9999
+28346,45.603481,-122.406433,80,WA,57,Tsuga,heterophylla,western hemlock,Plantae,147423,491,Recent cone or seed drop,2017,11,2,306,2458060,-9999,2017,11,2,306,2458060,-9999
+28526,44.868904,-122.651024,441,OR,57,Tsuga,heterophylla,western hemlock,Plantae,148487,392,Unripe seed cones,2017,11,11,315,2458069,-9999,2017,11,11,315,2458069,-9999
+28526,44.868904,-122.651024,441,OR,57,Tsuga,heterophylla,western hemlock,Plantae,148487,393,Ripe seed cones,2017,11,11,315,2458069,-9999,2017,11,11,315,2458069,-9999
+28526,44.868904,-122.651024,441,OR,57,Tsuga,heterophylla,western hemlock,Plantae,148487,490,Pollen cones (conifers),2017,11,11,315,2458069,-9999,2017,11,11,315,2458069,-9999
+28526,44.868904,-122.651024,441,OR,57,Tsuga,heterophylla,western hemlock,Plantae,148487,491,Recent cone or seed drop,2017,11,11,315,2458069,-9999,2017,11,11,315,2458069,-9999
+2119,40.862221,-73.875191,26,NY,56,Tsuga,canadensis,eastern hemlock,Plantae,66508,392,Unripe seed cones,2018,3,17,76,2458195,1,2018,3,17,76,2458195,3
+2119,40.862221,-73.875191,26,NY,56,Tsuga,canadensis,eastern hemlock,Plantae,66508,485,Young needles (conifers),2018,3,17,76,2458195,1,2018,3,17,76,2458195,3
+2119,40.862221,-73.875191,26,NY,56,Tsuga,canadensis,eastern hemlock,Plantae,66508,485,Young needles (conifers),2018,5,24,144,2458263,1,2018,6,14,165,2458284,5
+2119,40.862221,-73.875191,26,NY,56,Tsuga,canadensis,eastern hemlock,Plantae,66508,485,Young needles (conifers),2018,6,21,172,2458291,2,2018,6,26,177,2458296,9
+2119,40.862221,-73.875191,26,NY,56,Tsuga,canadensis,eastern hemlock,Plantae,66508,485,Young needles (conifers),2018,7,20,201,2458320,8,2018,7,24,205,2458324,2
+2119,40.862221,-73.875191,26,NY,56,Tsuga,canadensis,eastern hemlock,Plantae,66508,485,Young needles (conifers),2018,7,28,209,2458328,2,2018,7,28,209,2458328,2
+2119,40.862221,-73.875191,26,NY,56,Tsuga,canadensis,eastern hemlock,Plantae,66508,490,Pollen cones (conifers),2018,3,3,62,2458181,-9999,2018,3,3,62,2458181,12
+2119,40.862221,-73.875191,26,NY,56,Tsuga,canadensis,eastern hemlock,Plantae,66508,490,Pollen cones (conifers),2018,3,17,76,2458195,1,2018,3,17,76,2458195,3
+2119,40.862221,-73.875191,26,NY,56,Tsuga,canadensis,eastern hemlock,Plantae,66508,490,Pollen cones (conifers),2018,6,7,158,2458277,7,2018,6,7,158,2458277,1
+17311,40.859993,-73.877342,16,NY,56,Tsuga,canadensis,eastern hemlock,Plantae,66524,392,Unripe seed cones,2018,3,25,84,2458203,5,2018,3,25,84,2458203,2
+17311,40.859993,-73.877342,16,NY,56,Tsuga,canadensis,eastern hemlock,Plantae,66524,392,Unripe seed cones,2018,5,8,128,2458247,5,2018,5,9,129,2458248,1
+17311,40.859993,-73.877342,16,NY,56,Tsuga,canadensis,eastern hemlock,Plantae,66524,392,Unripe seed cones,2018,5,15,135,2458254,5,2018,5,15,135,2458254,2
+17311,40.859993,-73.877342,16,NY,56,Tsuga,canadensis,eastern hemlock,Plantae,66524,392,Unripe seed cones,2018,5,23,143,2458262,2,2018,5,23,143,2458262,1
+17311,40.859993,-73.877342,16,NY,56,Tsuga,canadensis,eastern hemlock,Plantae,66524,392,Unripe seed cones,2018,5,29,149,2458268,5,2018,5,29,149,2458268,2
+17311,40.859993,-73.877342,16,NY,56,Tsuga,canadensis,eastern hemlock,Plantae,66524,392,Unripe seed cones,2018,6,5,156,2458275,5,2018,6,5,156,2458275,2
+17311,40.859993,-73.877342,16,NY,56,Tsuga,canadensis,eastern hemlock,Plantae,66524,392,Unripe seed cones,2018,6,20,171,2458290,1,2018,6,20,171,2458290,1
+17311,40.859993,-73.877342,16,NY,56,Tsuga,canadensis,eastern hemlock,Plantae,66524,392,Unripe seed cones,2018,6,27,178,2458297,1,2018,6,27,178,2458297,1
+17311,40.859993,-73.877342,16,NY,56,Tsuga,canadensis,eastern hemlock,Plantae,66524,392,Unripe seed cones,2018,7,8,189,2458308,1,2018,7,8,189,2458308,4
+17311,40.859993,-73.877342,16,NY,56,Tsuga,canadensis,eastern hemlock,Plantae,66524,392,Unripe seed cones,2018,7,28,209,2458328,4,2018,7,28,209,2458328,2
+17311,40.859993,-73.877342,16,NY,56,Tsuga,canadensis,eastern hemlock,Plantae,66524,392,Unripe seed cones,2018,8,28,240,2458359,6,2018,8,28,240,2458359,1
+17311,40.859993,-73.877342,16,NY,56,Tsuga,canadensis,eastern hemlock,Plantae,66524,392,Unripe seed cones,2018,9,4,247,2458366,1,2018,9,4,247,2458366,1
+17311,40.859993,-73.877342,16,NY,56,Tsuga,canadensis,eastern hemlock,Plantae,66524,392,Unripe seed cones,2018,9,11,254,2458373,6,2018,9,11,254,2458373,6
+17311,40.859993,-73.877342,16,NY,56,Tsuga,canadensis,eastern hemlock,Plantae,66524,392,Unripe seed cones,2018,9,18,261,2458380,1,2018,9,18,261,2458380,1
+17311,40.859993,-73.877342,16,NY,56,Tsuga,canadensis,eastern hemlock,Plantae,66524,392,Unripe seed cones,2018,10,1,274,2458393,2,2018,10,1,274,2458393,1
+17311,40.859993,-73.877342,16,NY,56,Tsuga,canadensis,eastern hemlock,Plantae,66524,392,Unripe seed cones,2018,10,3,276,2458395,1,2018,10,5,278,2458397,3
+17311,40.859993,-73.877342,16,NY,56,Tsuga,canadensis,eastern hemlock,Plantae,66524,392,Unripe seed cones,2018,10,11,284,2458403,3,2018,10,18,291,2458410,1
+17311,40.859993,-73.877342,16,NY,56,Tsuga,canadensis,eastern hemlock,Plantae,66524,392,Unripe seed cones,2018,10,25,298,2458417,6,2018,10,25,298,2458417,5
+17311,40.859993,-73.877342,16,NY,56,Tsuga,canadensis,eastern hemlock,Plantae,66524,392,Unripe seed cones,2018,11,2,306,2458425,1,2018,11,2,306,2458425,1
+17311,40.859993,-73.877342,16,NY,56,Tsuga,canadensis,eastern hemlock,Plantae,66524,392,Unripe seed cones,2018,11,15,319,2458438,1,2018,11,15,319,2458438,2
+17311,40.859993,-73.877342,16,NY,56,Tsuga,canadensis,eastern hemlock,Plantae,66524,392,Unripe seed cones,2018,11,25,329,2458448,8,2018,11,25,329,2458448,-9999
+17311,40.859993,-73.877342,16,NY,56,Tsuga,canadensis,eastern hemlock,Plantae,66527,392,Unripe seed cones,2018,3,25,84,2458203,5,2018,3,25,84,2458203,3
+17311,40.859993,-73.877342,16,NY,56,Tsuga,canadensis,eastern hemlock,Plantae,66524,393,Ripe seed cones,2018,9,21,264,2458383,2,2018,9,29,272,2458391,3
+17311,40.859993,-73.877342,16,NY,56,Tsuga,canadensis,eastern hemlock,Plantae,66524,393,Ripe seed cones,2018,10,3,276,2458395,1,2018,10,5,278,2458397,3
+17311,40.859993,-73.877342,16,NY,56,Tsuga,canadensis,eastern hemlock,Plantae,66524,393,Ripe seed cones,2018,10,12,285,2458404,1,2018,10,18,291,2458410,1
+17311,40.859993,-73.877342,16,NY,56,Tsuga,canadensis,eastern hemlock,Plantae,66524,393,Ripe seed cones,2018,10,25,298,2458417,6,2018,10,25,298,2458417,3
+17311,40.859993,-73.877342,16,NY,56,Tsuga,canadensis,eastern hemlock,Plantae,66524,393,Ripe seed cones,2018,11,10,314,2458433,1,2018,11,10,314,2458433,4
+17311,40.859993,-73.877342,16,NY,56,Tsuga,canadensis,eastern hemlock,Plantae,66524,393,Ripe seed cones,2018,11,15,319,2458438,1,2018,12,1,335,2458454,-9999
+17311,40.859993,-73.877342,16,NY,56,Tsuga,canadensis,eastern hemlock,Plantae,66527,393,Ripe seed cones,2018,11,10,314,2458433,1,2018,11,10,314,2458433,4
+17311,40.859993,-73.877342,16,NY,56,Tsuga,canadensis,eastern hemlock,Plantae,66527,393,Ripe seed cones,2018,11,17,321,2458440,3,2018,11,17,321,2458440,-9999
+17311,40.859993,-73.877342,16,NY,56,Tsuga,canadensis,eastern hemlock,Plantae,66524,480,Breaking needle buds (conifers),2018,5,9,129,2458248,1,2018,5,31,151,2458270,5
+17311,40.859993,-73.877342,16,NY,56,Tsuga,canadensis,eastern hemlock,Plantae,66524,480,Breaking needle buds (conifers),2018,6,7,158,2458277,2,2018,6,14,165,2458284,1
+17311,40.859993,-73.877342,16,NY,56,Tsuga,canadensis,eastern hemlock,Plantae,66524,480,Breaking needle buds (conifers),2018,6,21,172,2458291,1,2018,6,26,177,2458296,1
+17311,40.859993,-73.877342,16,NY,56,Tsuga,canadensis,eastern hemlock,Plantae,66524,480,Breaking needle buds (conifers),2018,6,30,181,2458300,2,2018,6,30,181,2458300,5
+17311,40.859993,-73.877342,16,NY,56,Tsuga,canadensis,eastern hemlock,Plantae,66524,485,Young needles (conifers),2018,3,25,84,2458203,5,2018,3,25,84,2458203,2
+17311,40.859993,-73.877342,16,NY,56,Tsuga,canadensis,eastern hemlock,Plantae,66524,485,Young needles (conifers),2018,5,9,129,2458248,1,2018,5,9,129,2458248,1
+17311,40.859993,-73.877342,16,NY,56,Tsuga,canadensis,eastern hemlock,Plantae,66524,485,Young needles (conifers),2018,5,17,137,2458256,2,2018,6,15,166,2458285,4
+17311,40.859993,-73.877342,16,NY,56,Tsuga,canadensis,eastern hemlock,Plantae,66524,485,Young needles (conifers),2018,6,20,171,2458290,1,2018,6,27,178,2458297,1
+17311,40.859993,-73.877342,16,NY,56,Tsuga,canadensis,eastern hemlock,Plantae,66524,485,Young needles (conifers),2018,6,30,181,2458300,2,2018,6,30,181,2458300,5
+17311,40.859993,-73.877342,16,NY,56,Tsuga,canadensis,eastern hemlock,Plantae,66524,485,Young needles (conifers),2018,7,7,188,2458307,2,2018,7,7,188,2458307,1
+17311,40.859993,-73.877342,16,NY,56,Tsuga,canadensis,eastern hemlock,Plantae,66524,485,Young needles (conifers),2018,7,14,195,2458314,2,2018,7,14,195,2458314,6
+17311,40.859993,-73.877342,16,NY,56,Tsuga,canadensis,eastern hemlock,Plantae,66524,485,Young needles (conifers),2018,7,24,205,2458324,4,2018,7,28,209,2458328,2
+17311,40.859993,-73.877342,16,NY,56,Tsuga,canadensis,eastern hemlock,Plantae,66524,485,Young needles (conifers),2018,8,28,240,2458359,6,2018,8,28,240,2458359,1
+17311,40.859993,-73.877342,16,NY,56,Tsuga,canadensis,eastern hemlock,Plantae,66524,485,Young needles (conifers),2018,9,4,247,2458366,1,2018,9,4,247,2458366,1
+17311,40.859993,-73.877342,16,NY,56,Tsuga,canadensis,eastern hemlock,Plantae,66527,485,Young needles (conifers),2018,5,31,151,2458270,7,2018,6,14,165,2458284,5
+17311,40.859993,-73.877342,16,NY,56,Tsuga,canadensis,eastern hemlock,Plantae,66527,485,Young needles (conifers),2018,6,21,172,2458291,2,2018,6,21,172,2458291,5
+17311,40.859993,-73.877342,16,NY,56,Tsuga,canadensis,eastern hemlock,Plantae,66527,485,Young needles (conifers),2018,6,30,181,2458300,2,2018,6,30,181,2458300,5
+17311,40.859993,-73.877342,16,NY,56,Tsuga,canadensis,eastern hemlock,Plantae,66527,485,Young needles (conifers),2018,7,20,201,2458320,8,2018,7,20,201,2458320,4
+17311,40.859993,-73.877342,16,NY,56,Tsuga,canadensis,eastern hemlock,Plantae,66527,485,Young needles (conifers),2018,9,4,247,2458366,1,2018,9,4,247,2458366,4
+17311,40.859993,-73.877342,16,NY,56,Tsuga,canadensis,eastern hemlock,Plantae,66524,490,Pollen cones (conifers),2018,3,25,84,2458203,5,2018,3,25,84,2458203,2
+17311,40.859993,-73.877342,16,NY,56,Tsuga,canadensis,eastern hemlock,Plantae,66524,490,Pollen cones (conifers),2018,4,26,116,2458235,1,2018,4,26,116,2458235,5
+17311,40.859993,-73.877342,16,NY,56,Tsuga,canadensis,eastern hemlock,Plantae,66524,490,Pollen cones (conifers),2018,5,8,128,2458247,5,2018,5,9,129,2458248,1
+17311,40.859993,-73.877342,16,NY,56,Tsuga,canadensis,eastern hemlock,Plantae,66524,490,Pollen cones (conifers),2018,5,15,135,2458254,5,2018,5,15,135,2458254,2
+17311,40.859993,-73.877342,16,NY,56,Tsuga,canadensis,eastern hemlock,Plantae,66524,490,Pollen cones (conifers),2018,6,5,156,2458275,5,2018,6,5,156,2458275,2
+17311,40.859993,-73.877342,16,NY,56,Tsuga,canadensis,eastern hemlock,Plantae,66524,490,Pollen cones (conifers),2018,6,30,181,2458300,2,2018,6,30,181,2458300,5
+17311,40.859993,-73.877342,16,NY,56,Tsuga,canadensis,eastern hemlock,Plantae,66524,490,Pollen cones (conifers),2018,7,7,188,2458307,2,2018,7,7,188,2458307,1
+17311,40.859993,-73.877342,16,NY,56,Tsuga,canadensis,eastern hemlock,Plantae,66524,490,Pollen cones (conifers),2018,8,28,240,2458359,6,2018,8,28,240,2458359,1
+17311,40.859993,-73.877342,16,NY,56,Tsuga,canadensis,eastern hemlock,Plantae,66524,490,Pollen cones (conifers),2018,9,4,247,2458366,1,2018,9,4,247,2458366,1
+17311,40.859993,-73.877342,16,NY,56,Tsuga,canadensis,eastern hemlock,Plantae,66524,490,Pollen cones (conifers),2018,11,2,306,2458425,1,2018,11,2,306,2458425,1
+17311,40.859993,-73.877342,16,NY,56,Tsuga,canadensis,eastern hemlock,Plantae,66527,490,Pollen cones (conifers),2018,3,25,84,2458203,5,2018,3,25,84,2458203,3
+17311,40.859993,-73.877342,16,NY,56,Tsuga,canadensis,eastern hemlock,Plantae,66524,491,Recent cone or seed drop,2018,10,12,285,2458404,1,2018,10,12,285,2458404,2
+17311,40.859993,-73.877342,16,NY,56,Tsuga,canadensis,eastern hemlock,Plantae,66524,491,Recent cone or seed drop,2018,10,30,303,2458422,2,2018,10,30,303,2458422,1
+17311,40.859993,-73.877342,16,NY,56,Tsuga,canadensis,eastern hemlock,Plantae,66524,491,Recent cone or seed drop,2018,11,17,321,2458440,3,2018,11,25,329,2458448,-9999
+17311,40.859993,-73.877342,16,NY,56,Tsuga,canadensis,eastern hemlock,Plantae,66524,495,Open pollen cones (conifers),2018,5,8,128,2458247,5,2018,5,8,128,2458247,1
+17311,40.859993,-73.877342,16,NY,56,Tsuga,canadensis,eastern hemlock,Plantae,66524,495,Open pollen cones (conifers),2018,5,15,135,2458254,5,2018,5,15,135,2458254,2
+17311,40.859993,-73.877342,16,NY,56,Tsuga,canadensis,eastern hemlock,Plantae,66524,503,Pollen release (conifers),2018,5,8,128,2458247,5,2018,5,8,128,2458247,1
+18132,42.515305,-74.140076,417,NY,56,Tsuga,canadensis,eastern hemlock,Plantae,72335,392,Unripe seed cones,2018,5,22,142,2458261,13,2018,6,7,158,2458277,2
+18132,42.515305,-74.140076,417,NY,56,Tsuga,canadensis,eastern hemlock,Plantae,72335,392,Unripe seed cones,2018,7,26,207,2458326,28,2018,8,10,222,2458341,26
+18132,42.515305,-74.140076,417,NY,56,Tsuga,canadensis,eastern hemlock,Plantae,72360,392,Unripe seed cones,2018,6,7,158,2458277,7,2018,6,7,158,2458277,2
+18132,42.515305,-74.140076,417,NY,56,Tsuga,canadensis,eastern hemlock,Plantae,72360,392,Unripe seed cones,2018,7,26,207,2458326,28,2018,7,26,207,2458326,15
+18132,42.515305,-74.140076,417,NY,56,Tsuga,canadensis,eastern hemlock,Plantae,72333,393,Ripe seed cones,2018,3,11,70,2458189,1,2018,3,11,70,2458189,29
+18132,42.515305,-74.140076,417,NY,56,Tsuga,canadensis,eastern hemlock,Plantae,72335,393,Ripe seed cones,2018,1,24,24,2458143,-9999,2018,2,27,58,2458177,11
+18132,42.515305,-74.140076,417,NY,56,Tsuga,canadensis,eastern hemlock,Plantae,72335,393,Ripe seed cones,2018,3,11,70,2458189,1,2018,3,11,70,2458189,29
+18132,42.515305,-74.140076,417,NY,56,Tsuga,canadensis,eastern hemlock,Plantae,72335,393,Ripe seed cones,2018,5,31,151,2458270,9,2018,6,9,160,2458279,19
+18132,42.515305,-74.140076,417,NY,56,Tsuga,canadensis,eastern hemlock,Plantae,72335,393,Ripe seed cones,2018,9,5,248,2458367,26,2018,10,31,304,2458423,-9999
+18132,42.515305,-74.140076,417,NY,56,Tsuga,canadensis,eastern hemlock,Plantae,72360,393,Ripe seed cones,2018,1,24,24,2458143,-9999,2018,2,27,58,2458177,11
+18132,42.515305,-74.140076,417,NY,56,Tsuga,canadensis,eastern hemlock,Plantae,72360,393,Ripe seed cones,2018,3,11,70,2458189,1,2018,3,11,70,2458189,29
+18132,42.515305,-74.140076,417,NY,56,Tsuga,canadensis,eastern hemlock,Plantae,72360,393,Ripe seed cones,2018,6,7,158,2458277,7,2018,6,9,160,2458279,19
+18132,42.515305,-74.140076,417,NY,56,Tsuga,canadensis,eastern hemlock,Plantae,72360,393,Ripe seed cones,2018,9,5,248,2458367,26,2018,10,31,304,2458423,-9999
+18132,42.515305,-74.140076,417,NY,56,Tsuga,canadensis,eastern hemlock,Plantae,72333,480,Breaking needle buds (conifers),2018,6,7,158,2458277,7,2018,6,7,158,2458277,2
+18132,42.515305,-74.140076,417,NY,56,Tsuga,canadensis,eastern hemlock,Plantae,72335,480,Breaking needle buds (conifers),2018,4,9,99,2458218,29,2018,4,9,99,2458218,19
+18132,42.515305,-74.140076,417,NY,56,Tsuga,canadensis,eastern hemlock,Plantae,72335,480,Breaking needle buds (conifers),2018,5,6,126,2458245,5,2018,5,6,126,2458245,1
+18132,42.515305,-74.140076,417,NY,56,Tsuga,canadensis,eastern hemlock,Plantae,72335,480,Breaking needle buds (conifers),2018,6,7,158,2458277,7,2018,6,7,158,2458277,2
+18132,42.515305,-74.140076,417,NY,56,Tsuga,canadensis,eastern hemlock,Plantae,72360,480,Breaking needle buds (conifers),2018,5,31,151,2458270,22,2018,6,7,158,2458277,2
+18132,42.515305,-74.140076,417,NY,56,Tsuga,canadensis,eastern hemlock,Plantae,72333,485,Young needles (conifers),2018,4,9,99,2458218,29,2018,4,9,99,2458218,16
+18132,42.515305,-74.140076,417,NY,56,Tsuga,canadensis,eastern hemlock,Plantae,72333,485,Young needles (conifers),2018,6,7,158,2458277,7,2018,7,26,207,2458326,15
+18132,42.515305,-74.140076,417,NY,56,Tsuga,canadensis,eastern hemlock,Plantae,72335,485,Young needles (conifers),2018,4,9,99,2458218,29,2018,4,9,99,2458218,19
+18132,42.515305,-74.140076,417,NY,56,Tsuga,canadensis,eastern hemlock,Plantae,72335,485,Young needles (conifers),2018,6,7,158,2458277,7,2018,7,26,207,2458326,15
+18132,42.515305,-74.140076,417,NY,56,Tsuga,canadensis,eastern hemlock,Plantae,72360,485,Young needles (conifers),2018,4,9,99,2458218,29,2018,4,9,99,2458218,16
+18132,42.515305,-74.140076,417,NY,56,Tsuga,canadensis,eastern hemlock,Plantae,72360,485,Young needles (conifers),2018,5,31,151,2458270,22,2018,7,26,207,2458326,15
+18132,42.515305,-74.140076,417,NY,56,Tsuga,canadensis,eastern hemlock,Plantae,72335,490,Pollen cones (conifers),2018,4,9,99,2458218,29,2018,4,9,99,2458218,19
+18132,42.515305,-74.140076,417,NY,56,Tsuga,canadensis,eastern hemlock,Plantae,72335,490,Pollen cones (conifers),2018,5,7,127,2458246,1,2018,5,7,127,2458246,2
+18132,42.515305,-74.140076,417,NY,56,Tsuga,canadensis,eastern hemlock,Plantae,72335,490,Pollen cones (conifers),2018,5,22,142,2458261,13,2018,5,22,142,2458261,16
+18132,42.515305,-74.140076,417,NY,56,Tsuga,canadensis,eastern hemlock,Plantae,72335,490,Pollen cones (conifers),2018,8,10,222,2458341,15,2018,8,10,222,2458341,26
+18132,42.515305,-74.140076,417,NY,56,Tsuga,canadensis,eastern hemlock,Plantae,72360,490,Pollen cones (conifers),2018,4,9,99,2458218,29,2018,4,9,99,2458218,16
+18132,42.515305,-74.140076,417,NY,56,Tsuga,canadensis,eastern hemlock,Plantae,72360,490,Pollen cones (conifers),2018,7,26,207,2458326,28,2018,7,26,207,2458326,15
+18132,42.515305,-74.140076,417,NY,56,Tsuga,canadensis,eastern hemlock,Plantae,72335,491,Recent cone or seed drop,2018,1,24,24,2458143,-9999,2018,2,27,58,2458177,11
+18132,42.515305,-74.140076,417,NY,56,Tsuga,canadensis,eastern hemlock,Plantae,72335,491,Recent cone or seed drop,2018,10,31,304,2458423,30,2018,10,31,304,2458423,-9999
+18132,42.515305,-74.140076,417,NY,56,Tsuga,canadensis,eastern hemlock,Plantae,72360,491,Recent cone or seed drop,2018,1,24,24,2458143,-9999,2018,2,27,58,2458177,11
+18132,42.515305,-74.140076,417,NY,56,Tsuga,canadensis,eastern hemlock,Plantae,72360,491,Recent cone or seed drop,2018,9,19,262,2458381,6,2018,9,19,262,2458381,8
+18132,42.515305,-74.140076,417,NY,56,Tsuga,canadensis,eastern hemlock,Plantae,72335,495,Open pollen cones (conifers),2018,4,9,99,2458218,29,2018,4,9,99,2458218,19
+18132,42.515305,-74.140076,417,NY,56,Tsuga,canadensis,eastern hemlock,Plantae,72335,495,Open pollen cones (conifers),2018,5,7,127,2458246,1,2018,5,7,127,2458246,2
+18132,42.515305,-74.140076,417,NY,56,Tsuga,canadensis,eastern hemlock,Plantae,72335,495,Open pollen cones (conifers),2018,8,10,222,2458341,15,2018,8,10,222,2458341,26
+21282,42.423668,-76.331558,432,NY,56,Tsuga,canadensis,eastern hemlock,Plantae,92251,480,Breaking needle buds (conifers),2018,5,31,151,2458270,15,2018,6,6,157,2458276,7
+21282,42.423668,-76.331558,432,NY,56,Tsuga,canadensis,eastern hemlock,Plantae,92251,485,Young needles (conifers),2018,6,6,157,2458276,6,2018,6,20,171,2458290,-9999
+21282,42.423668,-76.331558,432,NY,56,Tsuga,canadensis,eastern hemlock,Plantae,92251,491,Recent cone or seed drop,2018,4,22,112,2458231,1,2018,4,22,112,2458231,7
+21282,42.423668,-76.331558,432,NY,56,Tsuga,canadensis,eastern hemlock,Plantae,92251,495,Open pollen cones (conifers),2018,4,22,112,2458231,1,2018,4,22,112,2458231,7
+23813,42.270908,-73.59346,212,NY,56,Tsuga,canadensis,eastern hemlock,Plantae,112465,480,Breaking needle buds (conifers),2018,5,22,142,2458261,8,2018,5,29,149,2458268,4
+23813,42.270908,-73.59346,212,NY,56,Tsuga,canadensis,eastern hemlock,Plantae,112465,485,Young needles (conifers),2018,6,2,153,2458272,4,2018,6,17,168,2458287,7
+23813,42.270908,-73.59346,212,NY,56,Tsuga,canadensis,eastern hemlock,Plantae,112465,485,Young needles (conifers),2018,8,13,225,2458344,7,2018,8,28,240,2458359,7
+24718,49.354507,-124.412689,52,BC,57,Tsuga,heterophylla,western hemlock,Plantae,129484,392,Unripe seed cones,2018,6,14,165,2458284,15,2018,7,4,185,2458304,13
+24718,49.354507,-124.412689,52,BC,57,Tsuga,heterophylla,western hemlock,Plantae,129484,392,Unripe seed cones,2018,7,26,207,2458326,9,2018,8,2,214,2458333,35
+24718,49.354507,-124.412689,52,BC,57,Tsuga,heterophylla,western hemlock,Plantae,129484,392,Unripe seed cones,2018,10,4,277,2458396,28,2018,10,31,304,2458423,-9999
+24718,49.354507,-124.412689,52,BC,57,Tsuga,heterophylla,western hemlock,Plantae,129484,393,Ripe seed cones,2018,9,6,249,2458368,21,2018,10,4,277,2458396,-9999
+24718,49.354507,-124.412689,52,BC,57,Tsuga,heterophylla,western hemlock,Plantae,117189,480,Breaking needle buds (conifers),2018,5,16,136,2458255,7,2018,5,16,136,2458255,14
+24718,49.354507,-124.412689,52,BC,57,Tsuga,heterophylla,western hemlock,Plantae,129484,480,Breaking needle buds (conifers),2018,5,16,136,2458255,7,2018,5,16,136,2458255,7
+24718,49.354507,-124.412689,52,BC,57,Tsuga,heterophylla,western hemlock,Plantae,117189,485,Young needles (conifers),2018,5,30,150,2458269,14,2018,7,4,185,2458304,29
+24718,49.354507,-124.412689,52,BC,57,Tsuga,heterophylla,western hemlock,Plantae,129484,485,Young needles (conifers),2018,5,23,143,2458262,7,2018,7,4,185,2458304,13
+25884,41.730396,-74.234406,508,NY,56,Tsuga,canadensis,eastern hemlock,Plantae,130704,393,Ripe seed cones,2018,10,31,304,2458423,164,2018,10,31,304,2458423,11
+25884,41.730396,-74.234406,508,NY,56,Tsuga,canadensis,eastern hemlock,Plantae,130704,485,Young needles (conifers),2018,6,17,168,2458287,63,2018,6,17,168,2458287,136
+25884,41.730396,-74.234406,508,NY,56,Tsuga,canadensis,eastern hemlock,Plantae,130711,485,Young needles (conifers),2018,6,17,168,2458287,63,2018,6,17,168,2458287,-9999
+25884,41.730396,-74.234406,508,NY,56,Tsuga,canadensis,eastern hemlock,Plantae,130729,485,Young needles (conifers),2018,6,17,168,2458287,54,2018,6,17,168,2458287,136
+25884,41.730396,-74.234406,508,NY,56,Tsuga,canadensis,eastern hemlock,Plantae,130727,490,Pollen cones (conifers),2018,11,11,315,2458434,11,2018,11,11,315,2458434,-9999
+28854,42.3172,-72.644508,41,MA,56,Tsuga,canadensis,eastern hemlock,Plantae,152771,480,Breaking needle buds (conifers),2018,5,1,121,2458240,8,2018,5,1,121,2458240,-9999
+28854,42.3172,-72.644508,41,MA,56,Tsuga,canadensis,eastern hemlock,Plantae,152963,480,Breaking needle buds (conifers),2018,5,2,122,2458241,5,2018,5,2,122,2458241,-9999
+30247,42.197792,-87.812119,210,IL,56,Tsuga,canadensis,eastern hemlock,Plantae,161390,392,Unripe seed cones,2018,4,14,104,2458223,-9999,2018,5,28,148,2458267,-9999
+30247,42.197792,-87.812119,210,IL,56,Tsuga,canadensis,eastern hemlock,Plantae,161390,393,Ripe seed cones,2018,4,14,104,2458223,-9999,2018,5,28,148,2458267,-9999
+30247,42.197792,-87.812119,210,IL,56,Tsuga,canadensis,eastern hemlock,Plantae,161390,490,Pollen cones (conifers),2018,5,13,133,2458252,7,2018,5,22,142,2458261,6
+30247,42.197792,-87.812119,210,IL,56,Tsuga,canadensis,eastern hemlock,Plantae,161390,491,Recent cone or seed drop,2018,5,6,126,2458245,8,2018,5,22,142,2458261,6
+30561,45.523064,-122.676483,9,OR,57,Tsuga,heterophylla,western hemlock,Plantae,165148,485,Young needles (conifers),2018,5,9,129,2458248,-9999,2018,5,9,129,2458248,-9999
+30606,44.568363,-123.332092,123,OR,57,Tsuga,heterophylla,western hemlock,Plantae,165560,392,Unripe seed cones,2018,5,12,132,2458251,-9999,2018,5,12,132,2458251,-9999
+30606,44.568363,-123.332092,123,OR,57,Tsuga,heterophylla,western hemlock,Plantae,165560,393,Ripe seed cones,2018,5,12,132,2458251,-9999,2018,5,12,132,2458251,-9999
+30606,44.568363,-123.332092,123,OR,57,Tsuga,heterophylla,western hemlock,Plantae,165560,480,Breaking needle buds (conifers),2018,5,12,132,2458251,-9999,2018,5,12,132,2458251,-9999
+30606,44.568363,-123.332092,123,OR,57,Tsuga,heterophylla,western hemlock,Plantae,165560,485,Young needles (conifers),2018,5,12,132,2458251,-9999,2018,5,12,132,2458251,-9999
+30606,44.568363,-123.332092,123,OR,57,Tsuga,heterophylla,western hemlock,Plantae,165560,490,Pollen cones (conifers),2018,5,12,132,2458251,-9999,2018,5,12,132,2458251,-9999
+30619,44.49379,-73.236183,47,VT,56,Tsuga,canadensis,eastern hemlock,Plantae,165669,480,Breaking needle buds (conifers),2018,5,10,130,2458249,-9999,2018,5,10,130,2458249,-9999
+30619,44.49379,-73.236183,47,VT,56,Tsuga,canadensis,eastern hemlock,Plantae,165669,485,Young needles (conifers),2018,5,10,130,2458249,-9999,2018,5,10,130,2458249,-9999
+30629,44.002171,-123.598351,280,OR,57,Tsuga,heterophylla,western hemlock,Plantae,165709,392,Unripe seed cones,2018,5,13,133,2458252,-9999,2018,5,13,133,2458252,-9999
+30629,44.002171,-123.598351,280,OR,57,Tsuga,heterophylla,western hemlock,Plantae,165709,480,Breaking needle buds (conifers),2018,5,13,133,2458252,-9999,2018,5,13,133,2458252,-9999
+30629,44.002171,-123.598351,280,OR,57,Tsuga,heterophylla,western hemlock,Plantae,165709,485,Young needles (conifers),2018,5,13,133,2458252,-9999,2018,5,13,133,2458252,-9999
+30629,44.002171,-123.598351,280,OR,57,Tsuga,heterophylla,western hemlock,Plantae,165709,490,Pollen cones (conifers),2018,5,13,133,2458252,-9999,2018,5,13,133,2458252,-9999
+30629,44.002171,-123.598351,280,OR,57,Tsuga,heterophylla,western hemlock,Plantae,165709,495,Open pollen cones (conifers),2018,5,13,133,2458252,-9999,2018,5,13,133,2458252,-9999
+31410,36.213821,-81.68174,970,NC,56,Tsuga,canadensis,eastern hemlock,Plantae,172425,392,Unripe seed cones,2018,9,6,249,2458368,-9999,2018,9,6,249,2458368,19
+31410,36.213821,-81.68174,970,NC,56,Tsuga,canadensis,eastern hemlock,Plantae,172425,392,Unripe seed cones,2018,10,9,282,2458401,14,2018,10,9,282,2458401,16
+31410,36.213821,-81.68174,970,NC,56,Tsuga,canadensis,eastern hemlock,Plantae,172425,392,Unripe seed cones,2018,10,29,302,2458421,4,2018,10,29,302,2458421,8
+31410,36.213821,-81.68174,970,NC,56,Tsuga,canadensis,eastern hemlock,Plantae,172425,392,Unripe seed cones,2018,11,20,324,2458443,4,2018,11,27,331,2458450,-9999
+31410,36.213821,-81.68174,970,NC,56,Tsuga,canadensis,eastern hemlock,Plantae,172426,392,Unripe seed cones,2018,9,6,249,2458368,-9999,2018,9,6,249,2458368,19
+31410,36.213821,-81.68174,970,NC,56,Tsuga,canadensis,eastern hemlock,Plantae,172426,392,Unripe seed cones,2018,10,9,282,2458401,14,2018,10,29,302,2458421,8
+31410,36.213821,-81.68174,970,NC,56,Tsuga,canadensis,eastern hemlock,Plantae,172426,392,Unripe seed cones,2018,11,20,324,2458443,4,2018,11,27,331,2458450,-9999
+31410,36.213821,-81.68174,970,NC,56,Tsuga,canadensis,eastern hemlock,Plantae,172427,392,Unripe seed cones,2018,9,6,249,2458368,-9999,2018,9,6,249,2458368,19
+31410,36.213821,-81.68174,970,NC,56,Tsuga,canadensis,eastern hemlock,Plantae,172427,392,Unripe seed cones,2018,10,9,282,2458401,14,2018,10,29,302,2458421,8
+31410,36.213821,-81.68174,970,NC,56,Tsuga,canadensis,eastern hemlock,Plantae,172427,392,Unripe seed cones,2018,11,27,331,2458450,7,2018,11,27,331,2458450,-9999
+31410,36.213821,-81.68174,970,NC,56,Tsuga,canadensis,eastern hemlock,Plantae,172428,392,Unripe seed cones,2018,9,6,249,2458368,-9999,2018,9,6,249,2458368,19
+31410,36.213821,-81.68174,970,NC,56,Tsuga,canadensis,eastern hemlock,Plantae,172428,392,Unripe seed cones,2018,10,9,282,2458401,14,2018,10,29,302,2458421,8
+31410,36.213821,-81.68174,970,NC,56,Tsuga,canadensis,eastern hemlock,Plantae,172428,392,Unripe seed cones,2018,11,20,324,2458443,4,2018,11,27,331,2458450,-9999
+31410,36.213821,-81.68174,970,NC,56,Tsuga,canadensis,eastern hemlock,Plantae,172429,392,Unripe seed cones,2018,9,6,249,2458368,-9999,2018,9,6,249,2458368,19
+31410,36.213821,-81.68174,970,NC,56,Tsuga,canadensis,eastern hemlock,Plantae,172429,392,Unripe seed cones,2018,10,9,282,2458401,14,2018,10,29,302,2458421,8
+31410,36.213821,-81.68174,970,NC,56,Tsuga,canadensis,eastern hemlock,Plantae,172429,392,Unripe seed cones,2018,11,20,324,2458443,4,2018,11,27,331,2458450,-9999
+31410,36.213821,-81.68174,970,NC,56,Tsuga,canadensis,eastern hemlock,Plantae,172425,393,Ripe seed cones,2018,9,25,268,2458387,28,2018,11,27,331,2458450,-9999
+31410,36.213821,-81.68174,970,NC,56,Tsuga,canadensis,eastern hemlock,Plantae,172426,393,Ripe seed cones,2018,9,25,268,2458387,28,2018,11,27,331,2458450,-9999
+31410,36.213821,-81.68174,970,NC,56,Tsuga,canadensis,eastern hemlock,Plantae,172427,393,Ripe seed cones,2018,9,25,268,2458387,28,2018,11,27,331,2458450,-9999
+31410,36.213821,-81.68174,970,NC,56,Tsuga,canadensis,eastern hemlock,Plantae,172428,393,Ripe seed cones,2018,9,25,268,2458387,28,2018,11,27,331,2458450,-9999
+31410,36.213821,-81.68174,970,NC,56,Tsuga,canadensis,eastern hemlock,Plantae,172429,393,Ripe seed cones,2018,9,25,268,2458387,28,2018,11,27,331,2458450,-9999
+31410,36.213821,-81.68174,970,NC,56,Tsuga,canadensis,eastern hemlock,Plantae,172425,485,Young needles (conifers),2018,9,6,249,2458368,9,2018,9,25,268,2458387,14
+31410,36.213821,-81.68174,970,NC,56,Tsuga,canadensis,eastern hemlock,Plantae,172426,485,Young needles (conifers),2018,9,6,249,2458368,9,2018,9,25,268,2458387,14
+31410,36.213821,-81.68174,970,NC,56,Tsuga,canadensis,eastern hemlock,Plantae,172427,485,Young needles (conifers),2018,9,6,249,2458368,9,2018,9,25,268,2458387,14
+31410,36.213821,-81.68174,970,NC,56,Tsuga,canadensis,eastern hemlock,Plantae,172428,485,Young needles (conifers),2018,9,6,249,2458368,9,2018,9,25,268,2458387,14
+31410,36.213821,-81.68174,970,NC,56,Tsuga,canadensis,eastern hemlock,Plantae,172428,485,Young needles (conifers),2018,10,21,294,2458413,12,2018,10,21,294,2458413,4
+31410,36.213821,-81.68174,970,NC,56,Tsuga,canadensis,eastern hemlock,Plantae,172429,485,Young needles (conifers),2018,9,6,249,2458368,9,2018,9,25,268,2458387,14
+31410,36.213821,-81.68174,970,NC,56,Tsuga,canadensis,eastern hemlock,Plantae,172429,485,Young needles (conifers),2018,10,21,294,2458413,12,2018,10,21,294,2458413,4
+31410,36.213821,-81.68174,970,NC,56,Tsuga,canadensis,eastern hemlock,Plantae,172425,490,Pollen cones (conifers),2018,9,6,249,2458368,-9999,2018,9,6,249,2458368,19
+31410,36.213821,-81.68174,970,NC,56,Tsuga,canadensis,eastern hemlock,Plantae,172426,490,Pollen cones (conifers),2018,9,6,249,2458368,-9999,2018,9,6,249,2458368,19
+31410,36.213821,-81.68174,970,NC,56,Tsuga,canadensis,eastern hemlock,Plantae,172427,490,Pollen cones (conifers),2018,9,6,249,2458368,-9999,2018,9,6,249,2458368,19
+31410,36.213821,-81.68174,970,NC,56,Tsuga,canadensis,eastern hemlock,Plantae,172428,490,Pollen cones (conifers),2018,9,6,249,2458368,-9999,2018,9,6,249,2458368,19
+31410,36.213821,-81.68174,970,NC,56,Tsuga,canadensis,eastern hemlock,Plantae,172429,490,Pollen cones (conifers),2018,9,6,249,2458368,-9999,2018,9,6,249,2458368,19
+31410,36.213821,-81.68174,970,NC,56,Tsuga,canadensis,eastern hemlock,Plantae,172425,491,Recent cone or seed drop,2018,10,9,282,2458401,42,2018,10,25,298,2458417,15
+31410,36.213821,-81.68174,970,NC,56,Tsuga,canadensis,eastern hemlock,Plantae,172425,491,Recent cone or seed drop,2018,11,20,324,2458443,4,2018,11,20,324,2458443,-9999
+31410,36.213821,-81.68174,970,NC,56,Tsuga,canadensis,eastern hemlock,Plantae,172426,491,Recent cone or seed drop,2018,10,9,282,2458401,42,2018,10,25,298,2458417,15
+31410,36.213821,-81.68174,970,NC,56,Tsuga,canadensis,eastern hemlock,Plantae,172426,491,Recent cone or seed drop,2018,11,20,324,2458443,4,2018,11,20,324,2458443,-9999
+31410,36.213821,-81.68174,970,NC,56,Tsuga,canadensis,eastern hemlock,Plantae,172427,491,Recent cone or seed drop,2018,10,9,282,2458401,42,2018,10,25,298,2458417,15
+31410,36.213821,-81.68174,970,NC,56,Tsuga,canadensis,eastern hemlock,Plantae,172427,491,Recent cone or seed drop,2018,11,20,324,2458443,4,2018,11,20,324,2458443,-9999
+31410,36.213821,-81.68174,970,NC,56,Tsuga,canadensis,eastern hemlock,Plantae,172428,491,Recent cone or seed drop,2018,10,9,282,2458401,42,2018,10,25,298,2458417,15
+31410,36.213821,-81.68174,970,NC,56,Tsuga,canadensis,eastern hemlock,Plantae,172428,491,Recent cone or seed drop,2018,11,20,324,2458443,4,2018,11,20,324,2458443,-9999
+31410,36.213821,-81.68174,970,NC,56,Tsuga,canadensis,eastern hemlock,Plantae,172429,491,Recent cone or seed drop,2018,10,9,282,2458401,42,2018,10,25,298,2458417,15
+31410,36.213821,-81.68174,970,NC,56,Tsuga,canadensis,eastern hemlock,Plantae,172429,491,Recent cone or seed drop,2018,11,20,324,2458443,4,2018,11,20,324,2458443,-9999
+31593,38.046703,-81.113167,565,WV,56,Tsuga,canadensis,eastern hemlock,Plantae,173254,485,Young needles (conifers),2018,8,7,219,2458338,-9999,2018,10,30,303,2458422,8
+32218,42.869408,-122.140602,1883,OR,58,Tsuga,mertensiana,mountain hemlock,Plantae,176396,485,Young needles (conifers),2018,7,6,187,2458306,-9999,2018,7,12,193,2458312,14
+32218,42.869408,-122.140602,1883,OR,58,Tsuga,mertensiana,mountain hemlock,Plantae,176397,485,Young needles (conifers),2018,9,27,270,2458389,7,2018,9,27,270,2458389,7
+32218,42.869408,-122.140602,1883,OR,58,Tsuga,mertensiana,mountain hemlock,Plantae,176398,485,Young needles (conifers),2018,9,27,270,2458389,7,2018,9,27,270,2458389,7
+32258,44.476814,-73.184982,95,VT,56,Tsuga,canadensis,eastern hemlock,Plantae,176577,393,Ripe seed cones,2018,10,31,304,2458423,-9999,2018,10,31,304,2458423,-9999
+32258,44.476814,-73.184982,95,VT,56,Tsuga,canadensis,eastern hemlock,Plantae,176577,491,Recent cone or seed drop,2018,10,31,304,2458423,-9999,2018,10,31,304,2458423,-9999
