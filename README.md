@@ -1,12 +1,13 @@
-final-project-template
+Pairing Phenology Data with Invasive Species Data
+by Deena Bleich
 ==============================
 
-A template I recommend for final projects. Feel free to modify as needed!
-Based on Cookiecutter Data Science:
+This project can be viewed and run using:
+https://mybinder.org/v2/gh/BIOF309/group-project-invasive/master
 
-repo: https://github.com/drivendata/cookiecutter-data-science
+repo: https://github.com/BIOF309/group-project-invasive
 
-site: http://drivendata.github.io/cookiecutter-data-science/
+The Jupyter Notebook is Invasive.ipynb.
 
 
 
